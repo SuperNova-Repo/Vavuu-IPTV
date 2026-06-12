@@ -1,596 +1,540 @@
 #EXTM3U8 x-url-tvg=https://vav00.de/sources/epg/epg_de.xml,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epg.pw/xmltv/epg_DE.xml
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="PRO TV HD", PRO TV HD
-https://www.vavoo.to/play/2190787212/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ANTENA 1 HD", ANTENA 1 HD
-https://www.vavoo.to/play/1631861196/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIGI 24 HD", DIGI 24 HD
-https://www.vavoo.to/play/2228529603/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="PRO TV", PRO TV
-https://www.vavoo.to/play/246329770/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="NATIONAL TV", NATIONAL TV
-https://www.vavoo.to/play/28404323/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="KANAL D HD", KANAL D HD
-https://www.vavoo.to/play/1251215893/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TELEKOM SPORT 1 HD", TELEKOM SPORT 1 HD
-https://www.vavoo.to/play/4136539779/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="LOOK PLUS HD", LOOK PLUS HD
-https://www.vavoo.to/play/3493794502/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIGI SPORT 4", DIGI SPORT 4
-https://www.vavoo.to/play/2260051152/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="HAPPY CHANNEL HD", HAPPY CHANNEL HD
-https://www.vavoo.to/play/2716329302/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TELEKOM SPORT 2 HD", TELEKOM SPORT 2 HD
-https://www.vavoo.to/play/2013368672/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="B1 TV", B1 TV
-https://www.vavoo.to/play/2945216147/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="CINEMAX 2 HD", CINEMAX 2 HD
-https://www.vavoo.to/play/1249066248/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIGI ANIMAL WORLD HD", DIGI ANIMAL WORLD HD
-https://www.vavoo.to/play/2768290645/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIGI LIFE HD", DIGI LIFE HD
-https://www.vavoo.to/play/3213830486/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIGI WORLD", DIGI WORLD
-https://www.vavoo.to/play/4242782308/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="E", E
-https://www.vavoo.to/play/3166915380/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="CINEMARATON", CINEMARATON
-https://www.vavoo.to/play/3275610158/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="PRO GOLD", PRO GOLD
-https://www.vavoo.to/play/466874382/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIGI SPORT 3 HD", DIGI SPORT 3 HD
-https://www.vavoo.to/play/4279401658/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIVA CHANNEL", DIVA CHANNEL
-https://www.vavoo.to/play/2174062060/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="MOOZ RO", MOOZ RO
-https://www.vavoo.to/play/3546223306/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="REALITATEA PLUS", REALITATEA PLUS
-https://www.vavoo.to/play/942898701/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="NATIONAL GEOGRAFIC HD", NATIONAL GEOGRAFIC HD
-https://www.vavoo.to/play/2785556162/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
-https://www.vavoo.to/play/2567606669/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="CRIME", CRIME
-https://www.vavoo.to/play/95539373/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIGI SPORT 3", DIGI SPORT 3
-https://www.vavoo.to/play/882211008/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIGI SPORT 4 HD", DIGI SPORT 4 HD
-https://www.vavoo.to/play/4124538275/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ANTENA 3 HD", ANTENA 3 HD
-https://www.vavoo.to/play/593575601/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="AXN HD", AXN HD
-https://www.vavoo.to/play/1050568979/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="HISTORY CHANNEL", HISTORY CHANNEL
-https://www.vavoo.to/play/3150263389/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="INTERMEDIA SUCEAVA", INTERMEDIA SUCEAVA
-https://www.vavoo.to/play/1344287270/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="HAPPY CHANNEL", HAPPY CHANNEL
-https://www.vavoo.to/play/463762689/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIGI 4K TV", DIGI 4K TV
-https://www.vavoo.to/play/2467663593/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="PLOIESTI TV", PLOIESTI TV
-https://www.vavoo.to/play/3537690621/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DISCOVERY CHANNEL HD", DISCOVERY CHANNEL HD
-https://www.vavoo.to/play/1866716904/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ACASA", ACASA
-https://www.vavoo.to/play/1935806021/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ANTENA 3", ANTENA 3
-https://www.vavoo.to/play/355964474/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ROCK TV", ROCK TV
-https://www.vavoo.to/play/1657199847/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="DIGI 24", DIGI 24
+https://www.vavoo.to/play/185416755/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Romania" tvg-name="ANTENA 1", ANTENA 1
 https://www.vavoo.to/play/1878508890/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DAVINCI LEARNING", DAVINCI LEARNING
-https://www.vavoo.to/play/2117365693/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="DIGI ANIMAL WORLD HD", DIGI ANIMAL WORLD HD
+https://www.vavoo.to/play/2768290645/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ROMANIA TV", ROMANIA TV
-https://www.vavoo.to/play/3723098333/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="DIGI 24 HD", DIGI 24 HD
+https://www.vavoo.to/play/2228529603/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIGI WORLD HD", DIGI WORLD HD
-https://www.vavoo.to/play/2785971469/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="ANTENA 1 HD", ANTENA 1 HD
+https://www.vavoo.to/play/1631861196/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIGI ANIMAL WORLD", DIGI ANIMAL WORLD
-https://www.vavoo.to/play/4055775147/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="NICKELODEON", NICKELODEON
+https://www.vavoo.to/play/181751695/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ANTENA STARS HD", ANTENA STARS HD
-https://www.vavoo.to/play/2141477116/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="DIGI LIFE HD", DIGI LIFE HD
+https://www.vavoo.to/play/3213830486/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TRAVEL MIX", TRAVEL MIX
-https://www.vavoo.to/play/1870114308/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIGI 24", DIGI 24
-https://www.vavoo.to/play/185416755/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="IMPACT TV DANCE", IMPACT TV DANCE
-https://www.vavoo.to/play/2921308313/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="FISHING", FISHING
-https://www.vavoo.to/play/2083903308/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIGI LIFE", DIGI LIFE
-https://www.vavoo.to/play/252596478/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIGI SPORT 4", DIGI SPORT 4
-https://www.vavoo.to/play/189239261/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="HBO", HBO
-https://www.vavoo.to/play/3687432160/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ALEPH NEWS", ALEPH NEWS
-https://www.vavoo.to/play/3743412295/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ID INVESTIGATION DISCOVERY HD", ID INVESTIGATION DISCOVERY HD
-https://www.vavoo.to/play/3422154030/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ANTENA STARS", ANTENA STARS
-https://www.vavoo.to/play/2135143941/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="PRO TV INTERNATIONAL", PRO TV INTERNATIONAL
-https://www.vavoo.to/play/2707617826/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="IMPACT TV MANELE", IMPACT TV MANELE
-https://www.vavoo.to/play/4133095385/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="COMEDY PLAY", COMEDY PLAY
-https://www.vavoo.to/play/465445474/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="PRO TV INTERNATIONAL", PRO TV INTERNATIONAL
-https://www.vavoo.to/play/3182795621/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="KISS TV", KISS TV
-https://www.vavoo.to/play/3120381441/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="LOOK SPORT HD", LOOK SPORT HD
-https://www.vavoo.to/play/3381201599/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="PRIMA TV", PRIMA TV
-https://www.vavoo.to/play/2054040562/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="A 7 TV", A 7 TV
-https://www.vavoo.to/play/2832106599/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TV 1000", TV 1000
-https://www.vavoo.to/play/2321872319/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="PRIMA TV RO", PRIMA TV RO
-https://www.vavoo.to/play/714920047/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ATOMIC ACADEMY TV", ATOMIC ACADEMY TV
-https://www.vavoo.to/play/1533490433/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TVR 3", TVR 3
-https://www.vavoo.to/play/284068386/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="BBC EARTH HD", BBC EARTH HD
-https://www.vavoo.to/play/523823815/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DISCOVERY INVESTIGATION", DISCOVERY INVESTIGATION
-https://www.vavoo.to/play/575624309/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TVR 1", TVR 1
-https://www.vavoo.to/play/1781455170/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TELEKOM SPORT 4 HD", TELEKOM SPORT 4 HD
-https://www.vavoo.to/play/3194919143/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="NATIONAL TV", NATIONAL TV
-https://www.vavoo.to/play/1152291023/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="BBC EARTH", BBC EARTH
-https://www.vavoo.to/play/502532410/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="PRO CINEMA", PRO CINEMA
-https://www.vavoo.to/play/2978271020/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TVR 2", TVR 2
-https://www.vavoo.to/play/764322706/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ATOMIC TV", ATOMIC TV
-https://www.vavoo.to/play/1831742567/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="PRO 2 HD", PRO 2 HD
-https://www.vavoo.to/play/420221408/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TVR HD", TVR HD
-https://www.vavoo.to/play/483384393/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ANIMAL PLANET HD", ANIMAL PLANET HD
-https://www.vavoo.to/play/3888491987/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TLC", TLC
-https://www.vavoo.to/play/2219689259/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ANIMAL PLANET", ANIMAL PLANET
-https://www.vavoo.to/play/1363942994/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="AXN SPIN", AXN SPIN
-https://www.vavoo.to/play/2107802644/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="PRO ARENA", PRO ARENA
-https://www.vavoo.to/play/1834083224/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="CINEMARATON HD", CINEMARATON HD
-https://www.vavoo.to/play/2573055575/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="TELEKOM SPORT 2 HD", TELEKOM SPORT 2 HD
+https://www.vavoo.to/play/2013368672/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Romania" tvg-name="TEENNICK", TEENNICK
 https://www.vavoo.to/play/2629396228/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="HBO 2", HBO 2
-https://www.vavoo.to/play/1888495277/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="CINEMAX", CINEMAX
-https://www.vavoo.to/play/3794748066/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="PRO TV NEWS", PRO TV NEWS
-https://www.vavoo.to/play/1932473755/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="AMC", AMC
-https://www.vavoo.to/play/3466104099/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DOCUBOX", DOCUBOX
-https://www.vavoo.to/play/2277302403/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="MTV 00", MTV 00
-https://www.vavoo.to/play/1225205721/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="BUCOVINA TV", BUCOVINA TV
-https://www.vavoo.to/play/1858621093/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="BOLLYWOOD TV HD", BOLLYWOOD TV HD
-https://www.vavoo.to/play/3576767611/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="AMC", AMC
-https://www.vavoo.to/play/2063050215/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="A7 TV", A7 TV
-https://www.vavoo.to/play/3111955796/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="BOLLYWOOD FILM", BOLLYWOOD FILM
-https://www.vavoo.to/play/1961522607/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="JIM JAM", JIM JAM
-https://www.vavoo.to/play/1430505537/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="VIASAT NATURE", VIASAT NATURE
-https://www.vavoo.to/play/97535420/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ALFA", ALFA
-https://www.vavoo.to/play/3167710399/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="PAPRIKA TV", PAPRIKA TV
-https://www.vavoo.to/play/3497498233/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="U TV", U TV
-https://www.vavoo.to/play/3539611994/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ROTV VALENCIA", ROTV VALENCIA
-https://www.vavoo.to/play/2015204510/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="VIASAT EXPLORER", VIASAT EXPLORER
-https://www.vavoo.to/play/2511061787/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="MIREASA", MIREASA
-https://www.vavoo.to/play/518251734/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="AXN WITH", AXN WITH
-https://www.vavoo.to/play/3021802433/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ARGES TV", ARGES TV
-https://www.vavoo.to/play/1985752732/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="HELLO TASTE", HELLO TASTE
-https://www.vavoo.to/play/83636965/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DISCOVERY SCIENCE", DISCOVERY SCIENCE
-https://www.vavoo.to/play/432753698/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="CINEMAX 2 HD", CINEMAX 2 HD
+https://www.vavoo.to/play/1249066248/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Romania" tvg-name="BOLLYWOOD TV", BOLLYWOOD TV
 https://www.vavoo.to/play/2883855572/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="FOOD NETWORK", FOOD NETWORK
-https://www.vavoo.to/play/1078526540/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="PRO TV NEWS", PRO TV NEWS
+https://www.vavoo.to/play/1932473755/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="CINEMAX 2", CINEMAX 2
-https://www.vavoo.to/play/1909701741/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="DIGI SPORT 3 HD", DIGI SPORT 3 HD
+https://www.vavoo.to/play/4279401658/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DAVINCI LEARNING", DAVINCI LEARNING
-https://www.vavoo.to/play/2378573400/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="ROMANIA TV", ROMANIA TV
+https://www.vavoo.to/play/3723098333/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="CINEMAX HD", CINEMAX HD
-https://www.vavoo.to/play/484011633/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="DIGI ANIMAL WORLD", DIGI ANIMAL WORLD
+https://www.vavoo.to/play/4055775147/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="FILM CAFE", FILM CAFE
-https://www.vavoo.to/play/3854088639/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="KANAL D HD", KANAL D HD
+https://www.vavoo.to/play/1251215893/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TELEKOM SPORT 3 HD", TELEKOM SPORT 3 HD
-https://www.vavoo.to/play/3031142910/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="ANTENA 3", ANTENA 3
+https://www.vavoo.to/play/355964474/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ORANGE SPORT 3", ORANGE SPORT 3
-https://www.vavoo.to/play/2762629881/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="CINEMARATON HD", CINEMARATON HD
+https://www.vavoo.to/play/2573055575/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="PRO X HD", PRO X HD
-https://www.vavoo.to/play/1478995347/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="JIM JAM", JIM JAM
+https://www.vavoo.to/play/1430505537/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="AUTO MOTOR SPORT", AUTO MOTOR SPORT
-https://www.vavoo.to/play/4227017240/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TVR 2", TVR 2
-https://www.vavoo.to/play/3298579735/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="NATIONAL 24 PLUS", NATIONAL 24 PLUS
-https://www.vavoo.to/play/714028764/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ACASA GOLD", ACASA GOLD
-https://www.vavoo.to/play/2658184809/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="MAGIC TV", MAGIC TV
-https://www.vavoo.to/play/3737977832/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TV 1000", TV 1000
-https://www.vavoo.to/play/3951026128/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="HISTORY CHANNEL", HISTORY CHANNEL
-https://www.vavoo.to/play/1338285052/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="NICKELODEON HD", NICKELODEON HD
-https://www.vavoo.to/play/3510040414/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TVR INTERNATIONAL", TVR INTERNATIONAL
-https://www.vavoo.to/play/476441838/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="JIMJAM", JIMJAM
-https://www.vavoo.to/play/4136887079/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="MEDICOOL TV", MEDICOOL TV
-https://www.vavoo.to/play/2424114096/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="AGRO TV", AGRO TV
-https://www.vavoo.to/play/2046060049/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="OBSERVATOR NEWS", OBSERVATOR NEWS
-https://www.vavoo.to/play/130908298/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="VIASAT EXPORER", VIASAT EXPORER
-https://www.vavoo.to/play/3441791596/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TRAVEL CHANNEL", TRAVEL CHANNEL
-https://www.vavoo.to/play/58851412/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="MINIMAX", MINIMAX
-https://www.vavoo.to/play/2263701124/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TVR 1", TVR 1
-https://www.vavoo.to/play/2201759687/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DOCUBOX HD", DOCUBOX HD
-https://www.vavoo.to/play/3496042070/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="COMEDY EST", COMEDY EST
-https://www.vavoo.to/play/4042981340/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TVR 3", TVR 3
-https://www.vavoo.to/play/4194073767/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="MOOZ DANCE", MOOZ DANCE
-https://www.vavoo.to/play/1347982858/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="TELESTAR1", TELESTAR1
-https://www.vavoo.to/play/1184121092/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="AXN SPIN", AXN SPIN
-https://www.vavoo.to/play/4061739203/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="FIGHTBOX HD", FIGHTBOX HD
-https://www.vavoo.to/play/3824846149/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="MOOZ", MOOZ
-https://www.vavoo.to/play/2897950865/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="DIVA", DIVA
-https://www.vavoo.to/play/765940213/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="MOOZ HITS", MOOZ HITS
-https://www.vavoo.to/play/2129120495/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="ARDEAL TV", ARDEAL TV
-https://www.vavoo.to/play/3491626627/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="ROCK TV", ROCK TV
+https://www.vavoo.to/play/1657199847/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Romania" tvg-name="CATINE", CATINE
 https://www.vavoo.to/play/3985120529/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="CBS REALITY", CBS REALITY
-https://www.vavoo.to/play/1219133865/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="CRIME", CRIME
+https://www.vavoo.to/play/2692994546/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="PLOIESTI TV", PLOIESTI TV
+https://www.vavoo.to/play/3537690621/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="MOOZ RO", MOOZ RO
+https://www.vavoo.to/play/3546223306/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="PRO TV", PRO TV
+https://www.vavoo.to/play/246329770/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DIGI SPORT 3", DIGI SPORT 3
+https://www.vavoo.to/play/882211008/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DIGI SPORT 2", DIGI SPORT 2
+https://www.vavoo.to/play/167072112/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="ANTENA STARS HD", ANTENA STARS HD
+https://www.vavoo.to/play/2141477116/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="PRIMA TV", PRIMA TV
+https://www.vavoo.to/play/2054040562/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="HBO", HBO
+https://www.vavoo.to/play/3687432160/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TVR 1", TVR 1
+https://www.vavoo.to/play/1781455170/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="AMC", AMC
+https://www.vavoo.to/play/3466104099/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="PRO GOLD", PRO GOLD
+https://www.vavoo.to/play/466874382/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DAVINCI LEARNING", DAVINCI LEARNING
+https://www.vavoo.to/play/2117365693/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="LOOK PLUS HD", LOOK PLUS HD
+https://www.vavoo.to/play/3493794502/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="PRO CINEMA", PRO CINEMA
+https://www.vavoo.to/play/2978271020/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TELEKOM SPORT 1 HD", TELEKOM SPORT 1 HD
+https://www.vavoo.to/play/4136539779/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DISCOVERY INVESTIGATION", DISCOVERY INVESTIGATION
+https://www.vavoo.to/play/575624309/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="AMC", AMC
+https://www.vavoo.to/play/2063050215/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="ACASA", ACASA
+https://www.vavoo.to/play/1935806021/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="PRO 2 HD", PRO 2 HD
+https://www.vavoo.to/play/420221408/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="ROTV VALENCIA", ROTV VALENCIA
+https://www.vavoo.to/play/2015204510/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="PRIMA TV RO", PRIMA TV RO
+https://www.vavoo.to/play/714920047/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="REALITATEA PLUS", REALITATEA PLUS
+https://www.vavoo.to/play/942898701/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="PRO TV INTERNATIONAL", PRO TV INTERNATIONAL
+https://www.vavoo.to/play/2707617826/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="PAPRIKA TV", PAPRIKA TV
+https://www.vavoo.to/play/3497498233/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="PRIMA SPORT", PRIMA SPORT
+https://www.vavoo.to/play/2806240274/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="KISS TV", KISS TV
+https://www.vavoo.to/play/3120381441/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="HAPPY CHANNEL HD", HAPPY CHANNEL HD
+https://www.vavoo.to/play/2716329302/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="ANIMAL PLANET", ANIMAL PLANET
+https://www.vavoo.to/play/1363942994/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="HBO 2", HBO 2
+https://www.vavoo.to/play/1888495277/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TVR 1", TVR 1
+https://www.vavoo.to/play/2201759687/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="CINEMAX HD", CINEMAX HD
+https://www.vavoo.to/play/484011633/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="VIASAT NATURE", VIASAT NATURE
+https://www.vavoo.to/play/97535420/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="IMPACT TV DANCE", IMPACT TV DANCE
+https://www.vavoo.to/play/2921308313/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="PRO TV INTERNATIONAL", PRO TV INTERNATIONAL
+https://www.vavoo.to/play/3182795621/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DIGI WORLD HD", DIGI WORLD HD
+https://www.vavoo.to/play/2785971469/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="CINEMAX", CINEMAX
+https://www.vavoo.to/play/3794748066/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TVR 2", TVR 2
+https://www.vavoo.to/play/3298579735/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="ARGES TV", ARGES TV
+https://www.vavoo.to/play/1985752732/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="AXN BLACK", AXN BLACK
+https://www.vavoo.to/play/927710249/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="ORANGE SPORT 3", ORANGE SPORT 3
+https://www.vavoo.to/play/2762629881/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="HAPPY CHANNEL", HAPPY CHANNEL
+https://www.vavoo.to/play/463762689/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="HIT CHANNEL", HIT CHANNEL
+https://www.vavoo.to/play/3650845286/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DIGI SPORT 4 HD", DIGI SPORT 4 HD
+https://www.vavoo.to/play/4124538275/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="LOOK SPORT HD", LOOK SPORT HD
+https://www.vavoo.to/play/3381201599/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="VIASAT HISTORY", VIASAT HISTORY
+https://www.vavoo.to/play/3112950329/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="CINEMAX 2", CINEMAX 2
+https://www.vavoo.to/play/1909701741/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="VIASAT EXPORER", VIASAT EXPORER
+https://www.vavoo.to/play/3441791596/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="ANTENA STARS", ANTENA STARS
+https://www.vavoo.to/play/2135143941/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TVR INTERNATIONAL", TVR INTERNATIONAL
+https://www.vavoo.to/play/476441838/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TELEKOM SPORT 3 HD", TELEKOM SPORT 3 HD
+https://www.vavoo.to/play/3031142910/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="A7 TV", A7 TV
+https://www.vavoo.to/play/3111955796/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="VIASAT NATURE", VIASAT NATURE
+https://www.vavoo.to/play/691736606/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="ALEPH NEWS", ALEPH NEWS
+https://www.vavoo.to/play/3743412295/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TV 1000", TV 1000
+https://www.vavoo.to/play/2321872319/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="ANIMAL PLANET HD", ANIMAL PLANET HD
+https://www.vavoo.to/play/3888491987/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="BBC EARTH", BBC EARTH
+https://www.vavoo.to/play/502532410/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DIGI SPORT 4", DIGI SPORT 4
+https://www.vavoo.to/play/2260051152/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TELEKOM SPORT 4 HD", TELEKOM SPORT 4 HD
+https://www.vavoo.to/play/3194919143/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TV 1000", TV 1000
+https://www.vavoo.to/play/3951026128/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="IMPACT TV MANELE", IMPACT TV MANELE
+https://www.vavoo.to/play/4133095385/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TLC", TLC
+https://www.vavoo.to/play/2219689259/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DISCOVERY SCIENCE", DISCOVERY SCIENCE
+https://www.vavoo.to/play/432753698/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="PRO ARENA", PRO ARENA
+https://www.vavoo.to/play/1834083224/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DIGI SPORT 4", DIGI SPORT 4
+https://www.vavoo.to/play/189239261/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="MTV 00", MTV 00
+https://www.vavoo.to/play/1225205721/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TRAVEL MIX", TRAVEL MIX
+https://www.vavoo.to/play/1870114308/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="ACASA GOLD", ACASA GOLD
+https://www.vavoo.to/play/2658184809/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="PRO X HD", PRO X HD
+https://www.vavoo.to/play/1478995347/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TVR 2", TVR 2
+https://www.vavoo.to/play/764322706/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="MTV HITS", MTV HITS
+https://www.vavoo.to/play/2992909400/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DIGI LIFE", DIGI LIFE
+https://www.vavoo.to/play/252596478/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DIGI WORLD", DIGI WORLD
+https://www.vavoo.to/play/4242782308/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="HISTORY CHANNEL", HISTORY CHANNEL
+https://www.vavoo.to/play/1338285052/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="U TV", U TV
+https://www.vavoo.to/play/3539611994/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="AXN SPIN", AXN SPIN
+https://www.vavoo.to/play/4061739203/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Romania" tvg-name="DTX", DTX
 https://www.vavoo.to/play/455507840/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TRAVEL CHANNEL", TRAVEL CHANNEL
+https://www.vavoo.to/play/58851412/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DOCUBOX", DOCUBOX
+https://www.vavoo.to/play/2277302403/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="ATOMIC TV", ATOMIC TV
+https://www.vavoo.to/play/1831742567/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="BUCOVINA TV", BUCOVINA TV
+https://www.vavoo.to/play/1858621093/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="AUTO MOTOR SPORT", AUTO MOTOR SPORT
+https://www.vavoo.to/play/4227017240/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="AXN SPIN", AXN SPIN
+https://www.vavoo.to/play/2107802644/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TVR HD", TVR HD
+https://www.vavoo.to/play/483384393/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="MOOZ", MOOZ
+https://www.vavoo.to/play/2897950865/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TVR 3", TVR 3
+https://www.vavoo.to/play/4194073767/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="E", E
+https://www.vavoo.to/play/3166915380/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="MOOZ HITS", MOOZ HITS
+https://www.vavoo.to/play/2129120495/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="VIASAT HISTORY", VIASAT HISTORY
+https://www.vavoo.to/play/3551013020/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="MIREASA", MIREASA
+https://www.vavoo.to/play/518251734/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="BBC EARTH HD", BBC EARTH HD
+https://www.vavoo.to/play/523823815/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="BOLLYWOOD TV HD", BOLLYWOOD TV HD
+https://www.vavoo.to/play/3576767611/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="HELLO TASTE", HELLO TASTE
+https://www.vavoo.to/play/83636965/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="EPIC DRAMA", EPIC DRAMA
+https://www.vavoo.to/play/2124021362/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="CBS REALITY", CBS REALITY
+https://www.vavoo.to/play/1219133865/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="MEDICOOL TV", MEDICOOL TV
+https://www.vavoo.to/play/2424114096/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="COMEDY PLAY", COMEDY PLAY
+https://www.vavoo.to/play/465445474/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DIVA", DIVA
+https://www.vavoo.to/play/765940213/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="NATIONAL TV", NATIONAL TV
+https://www.vavoo.to/play/1152291023/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="ATOMIC ACADEMY TV", ATOMIC ACADEMY TV
+https://www.vavoo.to/play/1533490433/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="OBSERVATOR NEWS", OBSERVATOR NEWS
+https://www.vavoo.to/play/130908298/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="CREDO", CREDO
+https://www.vavoo.to/play/3089743655/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="FOOD NETWORK", FOOD NETWORK
+https://www.vavoo.to/play/1078526540/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="MAGIC TV", MAGIC TV
+https://www.vavoo.to/play/3737977832/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DOCUBOX HD", DOCUBOX HD
+https://www.vavoo.to/play/3496042070/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TVR 3", TVR 3
+https://www.vavoo.to/play/284068386/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TELESTAR1", TELESTAR1
+https://www.vavoo.to/play/1184121092/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="MOOZ DANCE", MOOZ DANCE
+https://www.vavoo.to/play/1347982858/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="EPIC DRAMA HD", EPIC DRAMA HD
+https://www.vavoo.to/play/2824217324/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="ALFA", ALFA
+https://www.vavoo.to/play/3167710399/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="ARDEAL TV", ARDEAL TV
+https://www.vavoo.to/play/3491626627/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DIGI 4K TV", DIGI 4K TV
+https://www.vavoo.to/play/2467663593/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DIVA CHANNEL", DIVA CHANNEL
+https://www.vavoo.to/play/2174062060/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Romania" tvg-name="EMI TV", EMI TV
@@ -601,6 +545,10 @@ https://www.vavoo.to/play/2050981665/index.m3u8
 https://www.vavoo.to/play/2022472244/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="INTERMEDIA SUCEAVA", INTERMEDIA SUCEAVA
+https://www.vavoo.to/play/1344287270/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Romania" tvg-name="M9TV", M9TV
 https://www.vavoo.to/play/2414002905/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -609,8 +557,8 @@ https://www.vavoo.to/play/2414002905/index.m3u8
 https://www.vavoo.to/play/1871377147/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="MTV HITS", MTV HITS
-https://www.vavoo.to/play/2992909400/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="MTV DANCE", MTV DANCE
+https://www.vavoo.to/play/1464264945/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Romania" tvg-name="MUSCEL TV", MUSCEL TV
@@ -621,6 +569,10 @@ https://www.vavoo.to/play/3909115636/index.m3u8
 https://www.vavoo.to/play/3731501465/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="ORANGE SPORT 2", ORANGE SPORT 2
+https://www.vavoo.to/play/2580171593/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Romania" tvg-name="ORANGE SPORT 4", ORANGE SPORT 4
 https://www.vavoo.to/play/378191593/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -629,12 +581,20 @@ https://www.vavoo.to/play/378191593/index.m3u8
 https://www.vavoo.to/play/2929793917/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="TARAF", TARAF
+https://www.vavoo.to/play/2098788309/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Romania" tvg-name="TVR INFO", TVR INFO
 https://www.vavoo.to/play/2421228941/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="VIASAT HISTORY", VIASAT HISTORY
-https://www.vavoo.to/play/3551013020/index.m3u8
+#EXTINF:-1 group-title="Romania" tvg-name="TVR TIMISOARA", TVR TIMISOARA
+https://www.vavoo.to/play/3509508831/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="A 7 TV", A 7 TV
+https://www.vavoo.to/play/2832106599/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Romania" tvg-name="BOOMERANG", BOOMERANG
@@ -649,6 +609,10 @@ https://www.vavoo.to/play/229997317/index.m3u8
 https://www.vavoo.to/play/2425261898/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="DISCOVERY CHANNEL HD", DISCOVERY CHANNEL HD
+https://www.vavoo.to/play/1866716904/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Romania" tvg-name="DISCOVERY HD SHOWCASE", DISCOVERY HD SHOWCASE
 https://www.vavoo.to/play/2323251357/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -661,33 +625,17 @@ https://www.vavoo.to/play/2806040124/index.m3u8
 https://www.vavoo.to/play/1059974583/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="EPIC DRAMA HD", EPIC DRAMA HD
-https://www.vavoo.to/play/2824217324/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Romania" tvg-name="EXTREME SPORT RO", EXTREME SPORT RO
 https://www.vavoo.to/play/388462731/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Romania" tvg-name="FIGHTBOX HD", FIGHTBOX HD
+https://www.vavoo.to/play/3824846149/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Romania" tvg-name="MEGAMAX", MEGAMAX
 https://www.vavoo.to/play/3818331108/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="MUSIC CHANNEL", MUSIC CHANNEL
-https://www.vavoo.to/play/2788611999/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="NAT GEO WILD HD", NAT GEO WILD HD
-https://www.vavoo.to/play/77363700/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="NICK JR.", NICK JR.
-https://www.vavoo.to/play/3580885142/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Romania" tvg-name="TLC", TLC
 https://www.vavoo.to/play/807595503/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Romania" tvg-name="VIASAT HISTORY", VIASAT HISTORY
-https://www.vavoo.to/play/3112950329/index.m3u8
