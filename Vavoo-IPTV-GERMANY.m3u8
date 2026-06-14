@@ -1,0 +1,5 @@
+#EXTM3U8 x-url-tvg=https://vav00.de/sources/epg/epg_de.xml,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epg.pw/xmltv/epg_DE.xml
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="GERMANY" tvg-name="DYN SPORT 9", DYN SPORT 9
+https://www.vavoo.to/play/2110469312/index.m3u8
