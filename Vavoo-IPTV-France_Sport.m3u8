@@ -1,24 +1,20 @@
 #EXTM3U8 x-url-tvg=https://vav00.de/sources/epg/epg_de.xml,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epg.pw/xmltv/epg_DE.xml
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 1", DAZN EVENT 1
-https://www.vavoo.to/play/2019775967/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="France Sport" tvg-name="LIGUE 9 FHD", LIGUE 9 FHD
-https://www.vavoo.to/play/4004596465/index.m3u8
+#EXTINF:-1 group-title="France Sport" tvg-name="INFO SPORT HD", INFO SPORT HD
+https://www.vavoo.to/play/2520651022/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 2", DAZN EVENT 2
 https://www.vavoo.to/play/1069756175/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="France Sport" tvg-name="LIGUE 1 FHD", LIGUE 1 FHD
-https://www.vavoo.to/play/1433004265/index.m3u8
+#EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 18", DAZN EVENT 18
+https://www.vavoo.to/play/3501978831/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 10", DAZN EVENT 10
-https://www.vavoo.to/play/3771449102/index.m3u8
+#EXTINF:-1 group-title="France Sport" tvg-name="LIGUE 1 FHD", LIGUE 1 FHD
+https://www.vavoo.to/play/1433004265/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 11", DAZN EVENT 11
@@ -27,6 +23,26 @@ https://www.vavoo.to/play/3719009982/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 12", DAZN EVENT 12
 https://www.vavoo.to/play/2584472686/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 4", DAZN EVENT 4
+https://www.vavoo.to/play/2961431215/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 5", DAZN EVENT 5
+https://www.vavoo.to/play/2380526367/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 9", DAZN EVENT 9
+https://www.vavoo.to/play/1209212446/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 1", DAZN EVENT 1
+https://www.vavoo.to/play/2019775967/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 10", DAZN EVENT 10
+https://www.vavoo.to/play/3771449102/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 13", DAZN EVENT 13
@@ -49,10 +65,6 @@ https://www.vavoo.to/play/1871399598/index.m3u8
 https://www.vavoo.to/play/1391158046/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 18", DAZN EVENT 18
-https://www.vavoo.to/play/3501978831/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 19", DAZN EVENT 19
 https://www.vavoo.to/play/3990609279/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -65,14 +77,6 @@ https://www.vavoo.to/play/1717554592/index.m3u8
 https://www.vavoo.to/play/44238527/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 4", DAZN EVENT 4
-https://www.vavoo.to/play/2961431215/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 5", DAZN EVENT 5
-https://www.vavoo.to/play/2380526367/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 6", DAZN EVENT 6
 https://www.vavoo.to/play/3393423823/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -83,14 +87,6 @@ https://www.vavoo.to/play/4146307199/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 8", DAZN EVENT 8
 https://www.vavoo.to/play/1970485166/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 9", DAZN EVENT 9
-https://www.vavoo.to/play/1209212446/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="France Sport" tvg-name="INFO SPORT HD", INFO SPORT HD
-https://www.vavoo.to/play/2520651022/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="France Sport" tvg-name="LEQUIPE 21 HD", LEQUIPE 21 HD
@@ -135,3 +131,7 @@ https://www.vavoo.to/play/645108067/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="France Sport" tvg-name="LIGUE 8 FHD", LIGUE 8 FHD
 https://www.vavoo.to/play/4190789298/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="France Sport" tvg-name="LIGUE 9 FHD", LIGUE 9 FHD
+https://www.vavoo.to/play/4004596465/index.m3u8
