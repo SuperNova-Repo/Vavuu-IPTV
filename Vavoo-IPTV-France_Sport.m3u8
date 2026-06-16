@@ -1,12 +1,12 @@
 #EXTM3U8 x-url-tvg=https://vav00.de/sources/epg/epg_de.xml,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epg.pw/xmltv/epg_DE.xml
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="France Sport" tvg-name="INFO SPORT HD", INFO SPORT HD
-https://www.vavoo.to/play/2520651022/index.m3u8
+#EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 1", DAZN EVENT 1
+https://www.vavoo.to/play/2019775967/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="France Sport" tvg-name="LEQUIPE 21 HD", LEQUIPE 21 HD
-https://www.vavoo.to/play/2523971284/index.m3u8
+#EXTINF:-1 group-title="France Sport" tvg-name="LIGUE 9 FHD", LIGUE 9 FHD
+https://www.vavoo.to/play/4004596465/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 2", DAZN EVENT 2
@@ -15,10 +15,6 @@ https://www.vavoo.to/play/1069756175/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="France Sport" tvg-name="LIGUE 1 FHD", LIGUE 1 FHD
 https://www.vavoo.to/play/1433004265/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 1", DAZN EVENT 1
-https://www.vavoo.to/play/2019775967/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="France Sport" tvg-name="DAZN EVENT 10", DAZN EVENT 10
@@ -93,6 +89,14 @@ https://www.vavoo.to/play/1970485166/index.m3u8
 https://www.vavoo.to/play/1209212446/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="France Sport" tvg-name="INFO SPORT HD", INFO SPORT HD
+https://www.vavoo.to/play/2520651022/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="France Sport" tvg-name="LEQUIPE 21 HD", LEQUIPE 21 HD
+https://www.vavoo.to/play/2523971284/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="France Sport" tvg-name="LIGUE 10 HD", LIGUE 10 HD
 https://www.vavoo.to/play/3249840157/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -131,7 +135,3 @@ https://www.vavoo.to/play/645108067/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="France Sport" tvg-name="LIGUE 8 FHD", LIGUE 8 FHD
 https://www.vavoo.to/play/4190789298/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="France Sport" tvg-name="LIGUE 9 FHD", LIGUE 9 FHD
-https://www.vavoo.to/play/4004596465/index.m3u8
