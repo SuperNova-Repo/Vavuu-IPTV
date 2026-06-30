@@ -1,776 +1,876 @@
 #EXTM3U8 x-url-tvg=https://vav00.de/sources/epg/epg_de.xml,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epg.pw/xmltv/epg_DE.xml
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ELITA8 LIVE 1", ELITA8 LIVE 1
-https://www.vavoo.to/play/2535621920/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ELITA8 LIVE 2", ELITA8 LIVE 2
-https://www.vavoo.to/play/3498246128/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ZADRUGA 2", ZADRUGA 2
-https://www.vavoo.to/play/4549989/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK 1", PINK 1
-https://www.vavoo.to/play/2085201572/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ZADRUGA 1", ZADRUGA 1
-https://www.vavoo.to/play/1206196149/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ZADRUGA 4", ZADRUGA 4
-https://www.vavoo.to/play/2399508677/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ZADRUGA 3", ZADRUGA 3
-https://www.vavoo.to/play/1025852629/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="LUD ZBUNJEN NORMALAN", LUD ZBUNJEN NORMALAN
-https://www.vavoo.to/play/1205199104/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DOMA", DOMA
-https://www.vavoo.to/play/1039949502/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ELITA8 LIVE 4", ELITA8 LIVE 4
-https://www.vavoo.to/play/1606552144/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="RTS 1", RTS 1
+https://www.vavoo.to/play/3977868689/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="PINK 1", PINK 1
 https://www.vavoo.to/play/3013941449/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTS 1", RTS 1
-https://www.vavoo.to/play/3977868689/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK 1", PINK 1
+https://www.vavoo.to/play/2085201572/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ELITA8 LIVE 3", ELITA8 LIVE 3
-https://www.vavoo.to/play/3991066176/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 2", SPORT KLUB 2
-https://www.vavoo.to/play/2936483261/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HAPPY TV", HAPPY TV
-https://www.vavoo.to/play/1442214730/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTL", RTL
-https://www.vavoo.to/play/3157975502/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK 3", PINK 3
-https://www.vavoo.to/play/109704644/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK ACTION", PINK ACTION
-https://www.vavoo.to/play/1266026394/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="OBN", OBN
-https://www.vavoo.to/play/1749341885/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 1 PREMIUM", ARENA SPORT 1 PREMIUM
-https://www.vavoo.to/play/1238355296/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="KLASIK TV", KLASIK TV
-https://www.vavoo.to/play/2775951753/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="BHT 1", BHT 1
-https://www.vavoo.to/play/3265703113/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DIVA", DIVA
-https://www.vavoo.to/play/1212461086/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK WESTERN", PINK WESTERN
-https://www.vavoo.to/play/1735334790/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HAYAT", HAYAT
-https://www.vavoo.to/play/3144317054/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HRT 1", HRT 1
-https://www.vavoo.to/play/3611265655/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK BH", PINK BH
-https://www.vavoo.to/play/2333021344/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTL ZWEI", RTL ZWEI
-https://www.vavoo.to/play/1457742501/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK ACTION", PINK ACTION
-https://www.vavoo.to/play/241827126/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FOX", FOX
-https://www.vavoo.to/play/2934104722/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NOVA BH", NOVA BH
-https://www.vavoo.to/play/4232673163/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HRT 2", HRT 2
-https://www.vavoo.to/play/2426400935/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK FILM", PINK FILM
-https://www.vavoo.to/play/237557944/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 1 SRB", ARENA SPORT 1 SRB
-https://www.vavoo.to/play/2389983617/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV ACTION", CINESTAR TV ACTION
-https://www.vavoo.to/play/3735821845/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="24 KITCHEN", 24 KITCHEN
-https://www.vavoo.to/play/587942529/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 1 HR", ARENA SPORT 1 HR
-https://www.vavoo.to/play/79472391/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT HISTORY", VIASAT HISTORY
-https://www.vavoo.to/play/2809579529/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="EUROSPORT 1", EUROSPORT 1
-https://www.vavoo.to/play/330188485/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NAT GEO", NAT GEO
-https://www.vavoo.to/play/822301016/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT PREMIUM 2", ARENA SPORT PREMIUM 2
-https://www.vavoo.to/play/1024017880/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT PREMIUM 3", ARENA SPORT PREMIUM 3
-https://www.vavoo.to/play/6909032/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="N1", N1
-https://www.vavoo.to/play/1348777290/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="LUD ZBUNJEN NORMALAN", LUD ZBUNJEN NORMALAN
+https://www.vavoo.to/play/1205199104/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT PREMIUM 1", ARENA SPORT PREMIUM 1
 https://www.vavoo.to/play/2057912072/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 5", SPORT KLUB 5
-https://www.vavoo.to/play/1308238993/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="HRT 2", HRT 2
+https://www.vavoo.to/play/2426400935/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 1", SPORT KLUB 1
-https://www.vavoo.to/play/2074791740/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="ELITA8 LIVE 1", ELITA8 LIVE 1
+https://www.vavoo.to/play/2535621920/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK 2", PINK 2
-https://www.vavoo.to/play/4093993497/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="ZADRUGA 3", ZADRUGA 3
+https://www.vavoo.to/play/1025852629/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PRVA WORLD TV", PRVA WORLD TV
-https://www.vavoo.to/play/240416575/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="AMC", AMC
-https://www.vavoo.to/play/2245194560/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CRIME", CRIME
-https://www.vavoo.to/play/1184655216/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HBO", HBO
-https://www.vavoo.to/play/3988502808/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR FANTASY", CINESTAR FANTASY
-https://www.vavoo.to/play/2089535721/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DM SAT", DM SAT
-https://www.vavoo.to/play/3274058933/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 1", ARENA SPORT 1
-https://www.vavoo.to/play/3040873301/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK SERIJE", PINK SERIJE
-https://www.vavoo.to/play/3210378316/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 4", SPORT KLUB 4
-https://www.vavoo.to/play/1052273473/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR ACTION TV", CINESTAR ACTION TV
-https://www.vavoo.to/play/3874892108/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK PREMIUM", PINK PREMIUM
-https://www.vavoo.to/play/671059582/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 2", SPORT KLUB 2
-https://www.vavoo.to/play/2985860833/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="BHT 1", BHT 1
-https://www.vavoo.to/play/2942971146/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV VIJESTI CG", TV VIJESTI CG
-https://www.vavoo.to/play/1464267314/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK SCI", PINK SCI
-https://www.vavoo.to/play/559958860/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTS 2", RTS 2
-https://www.vavoo.to/play/2864254785/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK ROMANCE", PINK ROMANCE
-https://www.vavoo.to/play/3961402740/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK PLUS TV", PINK PLUS TV
-https://www.vavoo.to/play/2497251648/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 1 HD", ARENA SPORT 1 HD
-https://www.vavoo.to/play/418286784/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FOX CRIME", FOX CRIME
-https://www.vavoo.to/play/3026952039/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HAYAT FOLK", HAYAT FOLK
-https://www.vavoo.to/play/4138302100/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 3 HD", ARENA SPORT 3 HD
-https://www.vavoo.to/play/1523289021/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK HORROR", PINK HORROR
-https://www.vavoo.to/play/317628120/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTS SVET", RTS SVET
-https://www.vavoo.to/play/3688766735/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINEMANIA", CINEMANIA
-https://www.vavoo.to/play/2763008054/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HBO HD", HBO HD
-https://www.vavoo.to/play/1525351276/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTS DRAMA", RTS DRAMA
-https://www.vavoo.to/play/1047810031/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ADRIATIC SPORT 1", ADRIATIC SPORT 1
-https://www.vavoo.to/play/3645291205/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DISCOVERY WORLD", DISCOVERY WORLD
-https://www.vavoo.to/play/3759973215/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HRT 4", HRT 4
-https://www.vavoo.to/play/534709511/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HISTORY CHANNEL", HISTORY CHANNEL
-https://www.vavoo.to/play/1761826370/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 6", ARENA SPORT 6
-https://www.vavoo.to/play/123787077/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV 2", CINESTAR TV 2
-https://www.vavoo.to/play/3636345732/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HRT 3", HRT 3
-https://www.vavoo.to/play/2919225623/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK COMEDY", PINK COMEDY
-https://www.vavoo.to/play/4042990906/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTL ADRIA", RTL ADRIA
-https://www.vavoo.to/play/1016762712/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINEMAX 2 HD", CINEMAX 2 HD
-https://www.vavoo.to/play/329503571/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 7", SPORT KLUB 7
-https://www.vavoo.to/play/926578673/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTS 3", RTS 3
-https://www.vavoo.to/play/2547590897/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK SHOW", PINK SHOW
-https://www.vavoo.to/play/817893838/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK SOAP", PINK SOAP
-https://www.vavoo.to/play/2102235680/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK SERIJE", PINK SERIJE
-https://www.vavoo.to/play/4198860512/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK STYLE", PINK STYLE
-https://www.vavoo.to/play/3493997669/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK REALITY", PINK REALITY
-https://www.vavoo.to/play/1973100123/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HEMA TV", HEMA TV
-https://www.vavoo.to/play/655636936/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK PLUS", PINK PLUS
-https://www.vavoo.to/play/500020483/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK SOAP", PINK SOAP
-https://www.vavoo.to/play/933410271/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK SUPER KIDS", PINK SUPER KIDS
-https://www.vavoo.to/play/3892334137/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="N1 SRB", N1 SRB
-https://www.vavoo.to/play/2826018474/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="OBN", OBN
-https://www.vavoo.to/play/360492582/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="BN", BN
-https://www.vavoo.to/play/1545863727/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK", PINK
-https://www.vavoo.to/play/1794719322/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="ZADRUGA 2", ZADRUGA 2
+https://www.vavoo.to/play/4549989/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="PRVA TV", PRVA TV
 https://www.vavoo.to/play/50943656/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR ACTION", CINESTAR ACTION
-https://www.vavoo.to/play/1294430320/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK 3", PINK 3
-https://www.vavoo.to/play/3378858921/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RED TV", RED TV
-https://www.vavoo.to/play/4071939005/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="BALKAN TRIP", BALKAN TRIP
-https://www.vavoo.to/play/3630683467/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NOVA BH", NOVA BH
-https://www.vavoo.to/play/663124824/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 1", SPORT KLUB 1
-https://www.vavoo.to/play/4133020721/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 2", SPORT KLUB 2
+https://www.vavoo.to/play/2936483261/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="HAYAT", HAYAT
-https://www.vavoo.to/play/3601267133/index.m3u8
+https://www.vavoo.to/play/3144317054/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SCIFI", SCIFI
-https://www.vavoo.to/play/2981047212/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 1 HD", ARENA SPORT 1 HD
+https://www.vavoo.to/play/418286784/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR PREMIERE 1", CINESTAR PREMIERE 1
-https://www.vavoo.to/play/2024576859/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="BN", BN
+https://www.vavoo.to/play/1545863727/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK CRIME", PINK CRIME
-https://www.vavoo.to/play/1398596310/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="N1", N1
+https://www.vavoo.to/play/1348777290/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINEMANIA", CINEMANIA
-https://www.vavoo.to/play/3999207369/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="PRVA WORLD TV", PRVA WORLD TV
+https://www.vavoo.to/play/240416575/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="RTL CRIME", RTL CRIME
 https://www.vavoo.to/play/2742070672/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 2", SPORT KLUB 2
-https://www.vavoo.to/play/4292540545/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DISCOVERY", DISCOVERY
-https://www.vavoo.to/play/2556336719/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 2 PREMIUM", ARENA SPORT 2 PREMIUM
-https://www.vavoo.to/play/4094009774/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
-https://www.vavoo.to/play/3519388760/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 1", ARENA SPORT 1
+https://www.vavoo.to/play/3040873301/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="HISTORY", HISTORY
 https://www.vavoo.to/play/1149646634/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 3 SRB", ARENA SPORT 3 SRB
-https://www.vavoo.to/play/2692901127/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HBO 2", HBO 2
-https://www.vavoo.to/play/2315061688/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="INVESTIGATION DISCOVERY", INVESTIGATION DISCOVERY
-https://www.vavoo.to/play/961900723/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV", CINESTAR TV
-https://www.vavoo.to/play/3677791084/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="EURO CINEMA 4", EURO CINEMA 4
-https://www.vavoo.to/play/1308205307/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="BN MUSIC", BN MUSIC
-https://www.vavoo.to/play/490769929/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTCG 1", RTCG 1
-https://www.vavoo.to/play/3061453431/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
-https://www.vavoo.to/play/2523260552/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FEDERALNA TV", FEDERALNA TV
-https://www.vavoo.to/play/949584386/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTRS", RTRS
-https://www.vavoo.to/play/173136522/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK FILM", PINK FILM
-https://www.vavoo.to/play/1153957703/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FEDERALNA TELEVIZIJA", FEDERALNA TELEVIZIJA
-https://www.vavoo.to/play/106979797/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK THRILLER", PINK THRILLER
-https://www.vavoo.to/play/1901360651/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NOVA SERIES", NOVA SERIES
-https://www.vavoo.to/play/1184051403/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV COMEDY", CINESTAR TV COMEDY
-https://www.vavoo.to/play/540984857/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="DISCOVERY ID", DISCOVERY ID
 https://www.vavoo.to/play/858477141/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR FANTASY", CINESTAR FANTASY
-https://www.vavoo.to/play/2407104780/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="KLASIK TV", KLASIK TV
+https://www.vavoo.to/play/2775951753/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINEMAX 1 HD", CINEMAX 1 HD
-https://www.vavoo.to/play/2636960944/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="HRT 3", HRT 3
+https://www.vavoo.to/play/2919225623/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HAYAT 2", HAYAT 2
+https://www.vavoo.to/play/1005969581/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ZADRUGA LIVE 4", ZADRUGA LIVE 4
+https://www.vavoo.to/play/3161382178/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ELITA8 LIVE 4", ELITA8 LIVE 4
+https://www.vavoo.to/play/1606552144/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ELITA8 LIVE 2", ELITA8 LIVE 2
+https://www.vavoo.to/play/3498246128/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ELITA8 LIVE 3", ELITA8 LIVE 3
+https://www.vavoo.to/play/3991066176/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK BH", PINK BH
+https://www.vavoo.to/play/2333021344/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT PREMIUM 2", ARENA SPORT PREMIUM 2
+https://www.vavoo.to/play/1024017880/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SUPER TV", SUPER TV
+https://www.vavoo.to/play/2327216525/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="HBO", HBO
 https://www.vavoo.to/play/2424553859/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV PREMIERE 1", CINESTAR TV PREMIERE 1
-https://www.vavoo.to/play/3576189761/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 1 SRB", ARENA SPORT 1 SRB
+https://www.vavoo.to/play/2389983617/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FOX", FOX
+https://www.vavoo.to/play/2934104722/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DISCOVERY", DISCOVERY
+https://www.vavoo.to/play/2556336719/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK ACTION", PINK ACTION
+https://www.vavoo.to/play/1266026394/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 5", SPORT KLUB 5
+https://www.vavoo.to/play/1308238993/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK 3", PINK 3
+https://www.vavoo.to/play/3378858921/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="INFORMER TV", INFORMER TV
+https://www.vavoo.to/play/2630264434/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RED TV", RED TV
+https://www.vavoo.to/play/4071939005/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="AMC", AMC
-https://www.vavoo.to/play/1283826463/index.m3u8
+https://www.vavoo.to/play/2245194560/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NOVA M", NOVA M
-https://www.vavoo.to/play/3470043142/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="BALKANIKA", BALKANIKA
-https://www.vavoo.to/play/2398384130/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
-https://www.vavoo.to/play/1585801720/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HBO 2", HBO 2
-https://www.vavoo.to/play/3828451451/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HBO 3", HBO 3
-https://www.vavoo.to/play/3030196232/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="BBC EARTH", BBC EARTH
-https://www.vavoo.to/play/1561391128/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINEMAX 2", CINEMAX 2
-https://www.vavoo.to/play/858985043/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTL ZWEI", RTL ZWEI
-https://www.vavoo.to/play/992994150/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HBO 2 HD", HBO 2 HD
-https://www.vavoo.to/play/2249984707/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTL CRIME", RTL CRIME
-https://www.vavoo.to/play/2708798092/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 2 HD", ARENA SPORT 2 HD
-https://www.vavoo.to/play/2522975011/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DISCOVERY CI", DISCOVERY CI
-https://www.vavoo.to/play/3889340047/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR", CINESTAR
-https://www.vavoo.to/play/3780174251/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="M1 FILM", M1 FILM
-https://www.vavoo.to/play/861731842/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FACE TV", FACE TV
-https://www.vavoo.to/play/805398492/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CMC TV", CMC TV
-https://www.vavoo.to/play/2344983146/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NATIONAL GEOGRAPHIC HD", NATIONAL GEOGRAPHIC HD
-https://www.vavoo.to/play/1939231416/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="GRAND TV", GRAND TV
-https://www.vavoo.to/play/1537612094/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FOX MOVIES", FOX MOVIES
-https://www.vavoo.to/play/2183237728/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="24 KITCHEN", 24 KITCHEN
-https://www.vavoo.to/play/802245103/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HISTORY 2", HISTORY 2
-https://www.vavoo.to/play/54647568/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK THRILLER", PINK THRILLER
-https://www.vavoo.to/play/1572807593/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HBO 3", HBO 3
-https://www.vavoo.to/play/3646005707/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT EXPLORE", VIASAT EXPLORE
-https://www.vavoo.to/play/2230799510/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA TENIS", ARENA TENIS
+https://www.vavoo.to/play/1267600786/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="CRIME", CRIME
 https://www.vavoo.to/play/1473638588/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="KINO TV", KINO TV
-https://www.vavoo.to/play/1392680291/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="HBO 2", HBO 2
+https://www.vavoo.to/play/3828451451/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 4", SPORT KLUB 4
-https://www.vavoo.to/play/1889144097/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR PREMIERE 2", CINESTAR PREMIERE 2
-https://www.vavoo.to/play/993512041/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="EURO CINEMA 2", EURO CINEMA 2
-https://www.vavoo.to/play/3266925915/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 4 SRB", ARENA SPORT 4 SRB
-https://www.vavoo.to/play/3303212238/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="UNA TV", UNA TV
-https://www.vavoo.to/play/3221509248/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="EXTRA TV", EXTRA TV
-https://www.vavoo.to/play/2440641948/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR COMEDY", CINESTAR COMEDY
-https://www.vavoo.to/play/1202980829/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="STAR CRIME", STAR CRIME
-https://www.vavoo.to/play/852536790/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="BBC EARTH", BBC EARTH
-https://www.vavoo.to/play/1595188996/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTL", RTL
-https://www.vavoo.to/play/3238173013/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 4", ARENA SPORT 4
-https://www.vavoo.to/play/2107671589/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="NOVA SERIES", NOVA SERIES
+https://www.vavoo.to/play/1184051403/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="BN2", BN2
 https://www.vavoo.to/play/1061880403/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK MOVIES", PINK MOVIES
-https://www.vavoo.to/play/3434111784/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NATIONAL GEO WILD HD", NATIONAL GEO WILD HD
-https://www.vavoo.to/play/1589024375/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ANIMAL PLANET", ANIMAL PLANET
-https://www.vavoo.to/play/2260062238/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FOX", FOX
-https://www.vavoo.to/play/3554318857/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="ZADRUGA LIVE 3", ZADRUGA LIVE 3
+https://www.vavoo.to/play/239993138/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 3", SPORT KLUB 3
-https://www.vavoo.to/play/2358818641/index.m3u8
+https://www.vavoo.to/play/23764060/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 4 HD", ARENA SPORT 4 HD
-https://www.vavoo.to/play/1343128228/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ANIMAL PLANET", ANIMAL PLANET
-https://www.vavoo.to/play/2913748672/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 2 SRB", ARENA SPORT 2 SRB
-https://www.vavoo.to/play/3086581060/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 3", SPORT KLUB 3
-https://www.vavoo.to/play/3267023153/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK BRAVO", PINK BRAVO
-https://www.vavoo.to/play/1858421691/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NAT GEO", NAT GEO
-https://www.vavoo.to/play/3939261835/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 2 BIH", ARENA SPORT 2 BIH
-https://www.vavoo.to/play/1441857735/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK CLASSIC", PINK CLASSIC
-https://www.vavoo.to/play/366694651/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 8", SPORT KLUB 8
-https://www.vavoo.to/play/3043680288/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="AMC", AMC
+https://www.vavoo.to/play/1283826463/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="ANIMAL PLANET", ANIMAL PLANET
 https://www.vavoo.to/play/2168918882/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HNTV", HNTV
+https://www.vavoo.to/play/977098884/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="EURO CINEMA 4", EURO CINEMA 4
+https://www.vavoo.to/play/1308205307/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="LOV I RIBOLOV", LOV I RIBOLOV
+https://www.vavoo.to/play/2373884218/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="AXN ADRIA", AXN ADRIA
+https://www.vavoo.to/play/1781921808/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ALTERNATIVNA TV", ALTERNATIVNA TV
+https://www.vavoo.to/play/1165363416/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 4", ARENA SPORT 4
+https://www.vavoo.to/play/2107671589/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ADRIATIC SPORT 1", ADRIATIC SPORT 1
+https://www.vavoo.to/play/3645291205/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="JUGOTON TV", JUGOTON TV
+https://www.vavoo.to/play/2383601048/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK FOLK 2", PINK FOLK 2
+https://www.vavoo.to/play/4156595885/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="VAVOOM", VAVOOM
+https://www.vavoo.to/play/1411303991/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ALJAZEERA BALKANS", ALJAZEERA BALKANS
+https://www.vavoo.to/play/1631085200/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="AXN", AXN
+https://www.vavoo.to/play/2587266077/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DISCOVERY CHANNEL", DISCOVERY CHANNEL
+https://www.vavoo.to/play/3988084672/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="24 KITCHEN", 24 KITCHEN
+https://www.vavoo.to/play/802245103/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="BRAVO MUSIC", BRAVO MUSIC
+https://www.vavoo.to/play/1791418334/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ANIMAL PLANET", ANIMAL PLANET
+https://www.vavoo.to/play/2913748672/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ANIMAL PLANET", ANIMAL PLANET
+https://www.vavoo.to/play/2260062238/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ADRIATIC SPORT 2", ADRIATIC SPORT 2
+https://www.vavoo.to/play/2665922581/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ADRIATIC SPORT 3", ADRIATIC SPORT 3
+https://www.vavoo.to/play/2743527845/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK N ROLL", PINK N ROLL
+https://www.vavoo.to/play/3278309033/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="TLC", TLC
-https://www.vavoo.to/play/2070451084/index.m3u8
+https://www.vavoo.to/play/2990523347/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FOX MOVIES", FOX MOVIES
+https://www.vavoo.to/play/4049881232/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="EUROSPORT 1", EUROSPORT 1
+https://www.vavoo.to/play/330188485/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DISCOVERY CI", DISCOVERY CI
+https://www.vavoo.to/play/3889340047/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ZADRUGA 4", ZADRUGA 4
+https://www.vavoo.to/play/2399508677/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 1 PREMIUM", ARENA SPORT 1 PREMIUM
+https://www.vavoo.to/play/1238355296/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ZADRUGA 1", ZADRUGA 1
+https://www.vavoo.to/play/1206196149/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 1", SPORT KLUB 1
+https://www.vavoo.to/play/4133020721/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTS 2", RTS 2
+https://www.vavoo.to/play/2864254785/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ZADRUGA LIVE 1", ZADRUGA LIVE 1
+https://www.vavoo.to/play/1955484242/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTL", RTL
+https://www.vavoo.to/play/3157975502/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DOMA TV", DOMA TV
+https://www.vavoo.to/play/975977414/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTL", RTL
+https://www.vavoo.to/play/3238173013/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK 3", PINK 3
+https://www.vavoo.to/play/109704644/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FEDERALNA TELEVIZIJA", FEDERALNA TELEVIZIJA
+https://www.vavoo.to/play/106979797/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 2", SPORT KLUB 2
+https://www.vavoo.to/play/2985860833/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR ACTION", CINESTAR ACTION
+https://www.vavoo.to/play/1294430320/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTL ZWEI", RTL ZWEI
+https://www.vavoo.to/play/1457742501/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 2 PREMIUM", ARENA SPORT 2 PREMIUM
+https://www.vavoo.to/play/4094009774/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTCG 1", RTCG 1
+https://www.vavoo.to/play/3061453431/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="NOVA BH", NOVA BH
+https://www.vavoo.to/play/4232673163/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK 2", PINK 2
+https://www.vavoo.to/play/4093993497/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="BN MUSIC", BN MUSIC
+https://www.vavoo.to/play/490769929/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="OBN", OBN
+https://www.vavoo.to/play/1749341885/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 2", SPORT KLUB 2
+https://www.vavoo.to/play/4292540545/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HBO 2", HBO 2
+https://www.vavoo.to/play/2315061688/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="OBN", OBN
+https://www.vavoo.to/play/360492582/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK FILM", PINK FILM
+https://www.vavoo.to/play/237557944/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK", PINK
+https://www.vavoo.to/play/1794719322/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR ACTION TV", CINESTAR ACTION TV
+https://www.vavoo.to/play/3874892108/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
+https://www.vavoo.to/play/2523260552/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="INVESTIGATION DISCOVERY", INVESTIGATION DISCOVERY
+https://www.vavoo.to/play/961900723/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HAYAT", HAYAT
+https://www.vavoo.to/play/3601267133/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK THRILLER", PINK THRILLER
+https://www.vavoo.to/play/1901360651/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HBO", HBO
+https://www.vavoo.to/play/3988502808/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR PREMIERE 1", CINESTAR PREMIERE 1
+https://www.vavoo.to/play/2024576859/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
+https://www.vavoo.to/play/3519388760/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="NOVA BH", NOVA BH
+https://www.vavoo.to/play/663124824/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINEMAX 1 HD", CINEMAX 1 HD
+https://www.vavoo.to/play/2636960944/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="BHT 1", BHT 1
+https://www.vavoo.to/play/3265703113/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV", CINESTAR TV
+https://www.vavoo.to/play/3677791084/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ZADRUGA LIVE 2", ZADRUGA LIVE 2
+https://www.vavoo.to/play/858663042/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR FANTASY", CINESTAR FANTASY
+https://www.vavoo.to/play/2089535721/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK WESTERN", PINK WESTERN
+https://www.vavoo.to/play/1735334790/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 2 SRB", ARENA SPORT 2 SRB
+https://www.vavoo.to/play/3086581060/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FACE TV", FACE TV
+https://www.vavoo.to/play/805398492/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HRT 4", HRT 4
+https://www.vavoo.to/play/534709511/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="BALKANIKA", BALKANIKA
+https://www.vavoo.to/play/2398384130/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR FANTASY", CINESTAR FANTASY
+https://www.vavoo.to/play/2407104780/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="EUROSPORT 1", EUROSPORT 1
+https://www.vavoo.to/play/2708573167/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 3", SPORT KLUB 3
+https://www.vavoo.to/play/3267023153/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="BHT 1", BHT 1
+https://www.vavoo.to/play/2942971146/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR", CINESTAR
+https://www.vavoo.to/play/3780174251/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 1 HR", ARENA SPORT 1 HR
+https://www.vavoo.to/play/79472391/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 3 PREMIUM", ARENA SPORT 3 PREMIUM
+https://www.vavoo.to/play/697530411/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTS DRAMA", RTS DRAMA
+https://www.vavoo.to/play/1047810031/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CRIME", CRIME
+https://www.vavoo.to/play/1184655216/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK PREMIUM", PINK PREMIUM
+https://www.vavoo.to/play/671059582/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HBO 3", HBO 3
+https://www.vavoo.to/play/3646005707/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FOX CRIME", FOX CRIME
+https://www.vavoo.to/play/3026952039/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="24 KITCHEN", 24 KITCHEN
+https://www.vavoo.to/play/587942529/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 3 SRB", ARENA SPORT 3 SRB
+https://www.vavoo.to/play/2692901127/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 3", SPORT KLUB 3
+https://www.vavoo.to/play/2358818641/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTS SVET", RTS SVET
+https://www.vavoo.to/play/3688766735/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV PREMIERE 1", CINESTAR TV PREMIERE 1
+https://www.vavoo.to/play/3576189761/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 2 HD", ARENA SPORT 2 HD
+https://www.vavoo.to/play/2522975011/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK M", PINK M
+https://www.vavoo.to/play/2407994631/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="M1 FILM", M1 FILM
+https://www.vavoo.to/play/861731842/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
+https://www.vavoo.to/play/2786438473/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DIVA", DIVA
+https://www.vavoo.to/play/1212461086/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV ACTION", CINESTAR TV ACTION
+https://www.vavoo.to/play/3735821845/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HBO HD", HBO HD
+https://www.vavoo.to/play/1525351276/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 2 BIH", ARENA SPORT 2 BIH
+https://www.vavoo.to/play/1441857735/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DOX TV", DOX TV
+https://www.vavoo.to/play/2095546389/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FEDERALNA TV", FEDERALNA TV
+https://www.vavoo.to/play/949584386/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HISTORY 2", HISTORY 2
+https://www.vavoo.to/play/54647568/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="EURO CINEMA 2", EURO CINEMA 2
+https://www.vavoo.to/play/3266925915/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR COMEDY", CINESTAR COMEDY
+https://www.vavoo.to/play/1202980829/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TOXIC", TOXIC
+https://www.vavoo.to/play/2096109922/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR PREMIERE 1", CINESTAR PREMIERE 1
+https://www.vavoo.to/play/2090315961/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINEMANIA", CINEMANIA
+https://www.vavoo.to/play/3999207369/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINEMAX 1", CINEMAX 1
+https://www.vavoo.to/play/1989623711/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="EURO CINEMA 1", EURO CINEMA 1
+https://www.vavoo.to/play/2233020299/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINEMAX", CINEMAX
+https://www.vavoo.to/play/2776919121/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK ROMANCE", PINK ROMANCE
+https://www.vavoo.to/play/3961402740/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK BRAVO", PINK BRAVO
+https://www.vavoo.to/play/1858421691/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HAYAT FOLK BOX", HAYAT FOLK BOX
+https://www.vavoo.to/play/1348369557/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK CRIME", PINK CRIME
+https://www.vavoo.to/play/1398596310/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HBO 2 HD", HBO 2 HD
+https://www.vavoo.to/play/2249984707/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SCIFI", SCIFI
+https://www.vavoo.to/play/2981047212/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 4", SPORT KLUB 4
+https://www.vavoo.to/play/1052273473/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
+https://www.vavoo.to/play/1585801720/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HBO 3", HBO 3
+https://www.vavoo.to/play/3030196232/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FILMBOX", FILMBOX
+https://www.vavoo.to/play/1045294698/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
+https://www.vavoo.to/play/1675968584/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="STAR CRIME", STAR CRIME
+https://www.vavoo.to/play/852536790/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK CLASSIC", PINK CLASSIC
+https://www.vavoo.to/play/366694651/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR PREMIERE 2", CINESTAR PREMIERE 2
+https://www.vavoo.to/play/993512041/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
+https://www.vavoo.to/play/421860136/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="STAR CHANNEL", STAR CHANNEL
+https://www.vavoo.to/play/2996132298/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV 1", CINESTAR TV 1
 https://www.vavoo.to/play/2669560148/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="EURO CINEMA 3", EURO CINEMA 3
+https://www.vavoo.to/play/4292443371/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="GRAND 2", GRAND 2
+https://www.vavoo.to/play/381504600/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 4", SPORT KLUB 4
+https://www.vavoo.to/play/1889144097/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK SCI FI", PINK SCI FI
+https://www.vavoo.to/play/2309828666/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV SLON EXTRA", TV SLON EXTRA
+https://www.vavoo.to/play/392740988/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="NICK JR", NICK JR
+https://www.vavoo.to/play/1086525812/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK COMEDY", PINK COMEDY
+https://www.vavoo.to/play/3051675542/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FOX MOVIES", FOX MOVIES
+https://www.vavoo.to/play/2183237728/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="UNA TV", UNA TV
+https://www.vavoo.to/play/3221509248/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HISTORY CHANNEL", HISTORY CHANNEL
+https://www.vavoo.to/play/1761826370/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DISNEY CHANEL", DISNEY CHANEL
+https://www.vavoo.to/play/1846596197/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="NATIONAL GEO WILD HD", NATIONAL GEO WILD HD
+https://www.vavoo.to/play/1589024375/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTL PASSION", RTL PASSION
+https://www.vavoo.to/play/2764286316/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 3", ARENA SPORT 3
+https://www.vavoo.to/play/3481294901/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTS 3", RTS 3
+https://www.vavoo.to/play/2547590897/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK MOVIES", PINK MOVIES
+https://www.vavoo.to/play/3434111784/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 5", ARENA SPORT 5
+https://www.vavoo.to/play/2118074007/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTS ZIVOT", RTS ZIVOT
+https://www.vavoo.to/play/1008132296/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT HISTORY", VIASAT HISTORY
+https://www.vavoo.to/play/2809579529/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="IDJ TV", IDJ TV
+https://www.vavoo.to/play/789293011/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK ACTION", PINK ACTION
+https://www.vavoo.to/play/241827126/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PRVA PLUS", PRVA PLUS
+https://www.vavoo.to/play/700411465/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
+https://www.vavoo.to/play/608516760/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="BN MUSIC", BN MUSIC
+https://www.vavoo.to/play/446208285/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="STAR MOVIES", STAR MOVIES
+https://www.vavoo.to/play/1300525240/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT EXPLORE", VIASAT EXPLORE
+https://www.vavoo.to/play/2230799510/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV COMEDY", CINESTAR TV COMEDY
+https://www.vavoo.to/play/540984857/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTCG 2", RTCG 2
+https://www.vavoo.to/play/4057622695/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR PREMIERE 2", CINESTAR PREMIERE 2
+https://www.vavoo.to/play/1057811851/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTL CRIME", RTL CRIME
+https://www.vavoo.to/play/2708798092/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="NICKELODEON HR", NICKELODEON HR
+https://www.vavoo.to/play/543917900/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="EXTRA TV", EXTRA TV
+https://www.vavoo.to/play/2440641948/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="BBC EARTH", BBC EARTH
+https://www.vavoo.to/play/1595188996/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV FANTASY", CINESTAR TV FANTASY
+https://www.vavoo.to/play/198071826/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
+https://www.vavoo.to/play/355106282/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINEMAX 2", CINEMAX 2
+https://www.vavoo.to/play/858985043/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DA VINCI", DA VINCI
+https://www.vavoo.to/play/2301026606/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 3 HD", ARENA SPORT 3 HD
+https://www.vavoo.to/play/1523289021/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV PREMIERE 2", CINESTAR TV PREMIERE 2
+https://www.vavoo.to/play/2458397073/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK BH", PINK BH
+https://www.vavoo.to/play/1354766451/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FILMBOX PLUS", FILMBOX PLUS
+https://www.vavoo.to/play/3436666239/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="GRAND TV", GRAND TV
+https://www.vavoo.to/play/1537612094/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="NATIONAL GEOGRAPHIC HD", NATIONAL GEOGRAPHIC HD
+https://www.vavoo.to/play/1939231416/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="NAT GEO", NAT GEO
+https://www.vavoo.to/play/3939261835/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TATABRADA TV", TATABRADA TV
+https://www.vavoo.to/play/783672446/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV SARAJEVO", TV SARAJEVO
+https://www.vavoo.to/play/1022425106/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK SERIJE", PINK SERIJE
+https://www.vavoo.to/play/4198860512/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK FOLK 2", PINK FOLK 2
+https://www.vavoo.to/play/3000984577/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 5", ARENA SPORT 5
@@ -778,807 +878,751 @@ https://www.vavoo.to/play/1086369173/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="LOV I RIBOLOV", LOV I RIBOLOV
-https://www.vavoo.to/play/2373884218/index.m3u8
+https://www.vavoo.to/play/2710949016/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK BH", PINK BH
-https://www.vavoo.to/play/1354766451/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="DA VINCI LEARNING", DA VINCI LEARNING
+https://www.vavoo.to/play/297494844/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CITYPLAY", CITYPLAY
-https://www.vavoo.to/play/3120372067/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 7", SPORT KLUB 7
+https://www.vavoo.to/play/926578673/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINEMAX", CINEMAX
-https://www.vavoo.to/play/2776919121/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 3", ARENA SPORT 3
-https://www.vavoo.to/play/3481294901/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV 1000", TV 1000
-https://www.vavoo.to/play/1998323184/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINEMA TV BH", CINEMA TV BH
-https://www.vavoo.to/play/3863662541/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="EURO CINEMA 3", EURO CINEMA 3
-https://www.vavoo.to/play/4292443371/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="MINIMAX", MINIMAX
-https://www.vavoo.to/play/2690470424/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTL PASSION", RTL PASSION
-https://www.vavoo.to/play/2764286316/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="EURO CINEMA 1", EURO CINEMA 1
-https://www.vavoo.to/play/2233020299/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NICKELODEON", NICKELODEON
-https://www.vavoo.to/play/3688484569/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HBO 3 HD", HBO 3 HD
-https://www.vavoo.to/play/1253444189/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK EXTRA", PINK EXTRA
-https://www.vavoo.to/play/2317581732/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HISTORY 2", HISTORY 2
-https://www.vavoo.to/play/21335052/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTRS TV", RTRS TV
-https://www.vavoo.to/play/4006016167/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NICKJR HR", NICKJR HR
-https://www.vavoo.to/play/3723378765/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK MOVIES", PINK MOVIES
-https://www.vavoo.to/play/2309986692/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK N ROLL", PINK N ROLL
-https://www.vavoo.to/play/3278309033/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TRAVEL CHANNEL", TRAVEL CHANNEL
-https://www.vavoo.to/play/494867044/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK COMEDY", PINK COMEDY
-https://www.vavoo.to/play/3051675542/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR PREMIERE 1", CINESTAR PREMIERE 1
-https://www.vavoo.to/play/2090315961/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="EUROSPORT 2", EUROSPORT 2
-https://www.vavoo.to/play/3872518463/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="IZVORNA TV", IZVORNA TV
-https://www.vavoo.to/play/2367813923/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINEMAX 1", CINEMAX 1
-https://www.vavoo.to/play/1989623711/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR FANTASY", CINESTAR FANTASY
-https://www.vavoo.to/play/1868891312/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 3", SPORT KLUB 3
-https://www.vavoo.to/play/23764060/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 5", ARENA SPORT 5
-https://www.vavoo.to/play/2118074007/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK FOLK 2", PINK FOLK 2
-https://www.vavoo.to/play/3000984577/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTV 1", RTV 1
-https://www.vavoo.to/play/3206634038/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ALTERNATIVNA TV", ALTERNATIVNA TV
-https://www.vavoo.to/play/1165363416/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV PREMIERE 2", CINESTAR TV PREMIERE 2
-https://www.vavoo.to/play/2458397073/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DISNEY CHANEL", DISNEY CHANEL
-https://www.vavoo.to/play/1846596197/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="OTV VALENTINO", OTV VALENTINO
-https://www.vavoo.to/play/2426904498/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR PREMIERE 2", CINESTAR PREMIERE 2
-https://www.vavoo.to/play/1057811851/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NAT GEO WILD", NAT GEO WILD
-https://www.vavoo.to/play/3191034074/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="BN MUSIC", BN MUSIC
-https://www.vavoo.to/play/446208285/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DISCOVERY CHANNEL", DISCOVERY CHANNEL
-https://www.vavoo.to/play/3988084672/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
-https://www.vavoo.to/play/1675968584/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK CRIME", PINK CRIME
-https://www.vavoo.to/play/1334542737/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV SARAJEVO", TV SARAJEVO
-https://www.vavoo.to/play/1022425106/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="MAXCRO SELECT 2", MAXCRO SELECT 2
-https://www.vavoo.to/play/333385274/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SCIFI", SCIFI
-https://www.vavoo.to/play/1488837929/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT NATURE", VIASAT NATURE
-https://www.vavoo.to/play/4180679982/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK M", PINK M
-https://www.vavoo.to/play/2407994631/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DIVA", DIVA
-https://www.vavoo.to/play/926783964/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV SLON EXTRA", TV SLON EXTRA
-https://www.vavoo.to/play/392740988/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FOX MOVIES", FOX MOVIES
-https://www.vavoo.to/play/4049881232/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTL KOCKICA", RTL KOCKICA
-https://www.vavoo.to/play/3251758357/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="BRAVO MUSIC", BRAVO MUSIC
-https://www.vavoo.to/play/1791418334/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK HAHA", PINK HAHA
-https://www.vavoo.to/play/1982606330/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 5 SRB", ARENA SPORT 5 SRB
-https://www.vavoo.to/play/3549958285/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FOX CRIME", FOX CRIME
-https://www.vavoo.to/play/4236308356/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ALJAZEERA BALKANS", ALJAZEERA BALKANS
-https://www.vavoo.to/play/1631085200/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK MUSIC 1", PINK MUSIC 1
-https://www.vavoo.to/play/946661176/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTS ZIVOT", RTS ZIVOT
-https://www.vavoo.to/play/1008132296/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
-https://www.vavoo.to/play/421860136/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HISTORY HD", HISTORY HD
-https://www.vavoo.to/play/639412623/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK WORLD CINEMA", PINK WORLD CINEMA
-https://www.vavoo.to/play/3844486588/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK FOLK 1", PINK FOLK 1
-https://www.vavoo.to/play/4118748881/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK PREMIUM", PINK PREMIUM
-https://www.vavoo.to/play/2853021043/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="STAR CHANNEL", STAR CHANNEL
-https://www.vavoo.to/play/2996132298/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK SCI FI", PINK SCI FI
-https://www.vavoo.to/play/2309828666/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 4 BIH", ARENA SPORT 4 BIH
-https://www.vavoo.to/play/652966221/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
-https://www.vavoo.to/play/608516760/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK KUVAR", PINK KUVAR
-https://www.vavoo.to/play/2481382455/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="EUROSPORT 2", EUROSPORT 2
-https://www.vavoo.to/play/1410219029/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
-https://www.vavoo.to/play/355106282/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="AXN", AXN
-https://www.vavoo.to/play/777626841/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINEMAX 2", CINEMAX 2
-https://www.vavoo.to/play/825705807/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTL LIVING", RTL LIVING
-https://www.vavoo.to/play/2983585576/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="EUROSPORT 2", EUROSPORT 2
-https://www.vavoo.to/play/448416118/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PRVA PLUS", PRVA PLUS
-https://www.vavoo.to/play/700411465/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="CMC TV", CMC TV
+https://www.vavoo.to/play/2344983146/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="PINK ROMANCE", PINK ROMANCE
 https://www.vavoo.to/play/1642864249/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORT TV 1", SPORT TV 1
-https://www.vavoo.to/play/1645162648/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="DMC TELEVIZIJA", DMC TELEVIZIJA
+https://www.vavoo.to/play/930753178/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="AXN", AXN
-https://www.vavoo.to/play/3876516998/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="NOVA M", NOVA M
+https://www.vavoo.to/play/3470043142/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HAHA", HAHA
-https://www.vavoo.to/play/1788977439/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK COMEDY", PINK COMEDY
+https://www.vavoo.to/play/4042990906/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HNTV", HNTV
-https://www.vavoo.to/play/977098884/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="MAXCRO SELECT 2", MAXCRO SELECT 2
+https://www.vavoo.to/play/333385274/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HAYAT 2", HAYAT 2
-https://www.vavoo.to/play/1005969581/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="OTV VALENTINO", OTV VALENTINO
+https://www.vavoo.to/play/2426904498/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 5 HD", ARENA SPORT 5 HD
-https://www.vavoo.to/play/2628026938/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HAYAT FOLK BOX", HAYAT FOLK BOX
-https://www.vavoo.to/play/1348369557/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT NATURE", VIASAT NATURE
-https://www.vavoo.to/play/3587917964/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DOKU TV", DOKU TV
-https://www.vavoo.to/play/1778938190/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="JUGOTON TV", JUGOTON TV
-https://www.vavoo.to/play/2383601048/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV NOVI PAZAR", TV NOVI PAZAR
-https://www.vavoo.to/play/2682748849/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTRS PLUS", RTRS PLUS
-https://www.vavoo.to/play/928517033/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FILMBOX EXTRA", FILMBOX EXTRA
-https://www.vavoo.to/play/2174124399/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NICK JR", NICK JR
-https://www.vavoo.to/play/1086525812/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="IZVORNA TV", IZVORNA TV
-https://www.vavoo.to/play/2180774477/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
-https://www.vavoo.to/play/2786438473/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="AXN ADRIA", AXN ADRIA
-https://www.vavoo.to/play/1781921808/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV K3", TV K3
-https://www.vavoo.to/play/1956244714/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FOX LIFE", FOX LIFE
-https://www.vavoo.to/play/3243625503/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT EXPLORE", VIASAT EXPLORE
-https://www.vavoo.to/play/2538406656/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="GRAND 2", GRAND 2
-https://www.vavoo.to/play/381504600/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FILMBOX PLUS", FILMBOX PLUS
-https://www.vavoo.to/play/3436666239/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FOX LIFE", FOX LIFE
-https://www.vavoo.to/play/1324249288/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 10 HR", ARENA SPORT 10 HR
-https://www.vavoo.to/play/3991014499/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DOBRA ISLAMSKA", DOBRA ISLAMSKA
-https://www.vavoo.to/play/956406027/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="LOV I RIBOLOV", LOV I RIBOLOV
-https://www.vavoo.to/play/2324453958/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK FAMILY", PINK FAMILY
-https://www.vavoo.to/play/2969315161/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV 5", TV 5
-https://www.vavoo.to/play/188345347/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="MY TV", MY TV
-https://www.vavoo.to/play/243810847/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="MTV IGMAN", MTV IGMAN
-https://www.vavoo.to/play/695607960/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK FOLK 1", PINK FOLK 1
-https://www.vavoo.to/play/2959139965/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ADRIATIC SPORT 2", ADRIATIC SPORT 2
-https://www.vavoo.to/play/2665922581/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="MAXCRO SELECT 6", MAXCRO SELECT 6
-https://www.vavoo.to/play/3865028858/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="AXN", AXN
-https://www.vavoo.to/play/2587266077/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="MASA I MEDO", MASA I MEDO
-https://www.vavoo.to/play/428491796/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="KCN 2", KCN 2
-https://www.vavoo.to/play/3668786775/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK FASHION", PINK FASHION
-https://www.vavoo.to/play/1375797154/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ZIVINICE", ZIVINICE
-https://www.vavoo.to/play/1416666208/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK CLASSIC", PINK CLASSIC
-https://www.vavoo.to/play/2552855542/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NICKTOONS", NICKTOONS
-https://www.vavoo.to/play/2189044746/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TOM AND JERRY", TOM AND JERRY
-https://www.vavoo.to/play/829106058/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTL KOCKICA", RTL KOCKICA
-https://www.vavoo.to/play/1930307647/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTV ZENICA", RTV ZENICA
-https://www.vavoo.to/play/134098158/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PRVA MAX", PRVA MAX
-https://www.vavoo.to/play/1795614240/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DOBRA MUZICKA", DOBRA MUZICKA
-https://www.vavoo.to/play/2641529497/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FIGHTBOX", FIGHTBOX
-https://www.vavoo.to/play/2237874125/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORTSKA TV", SPORTSKA TV
-https://www.vavoo.to/play/1583059029/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT NATURE", VIASAT NATURE
-https://www.vavoo.to/play/4274183762/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NICKELODEON", NICKELODEON
-https://www.vavoo.to/play/1762001907/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="E", E
-https://www.vavoo.to/play/1514394123/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTCG SAT", RTCG SAT
-https://www.vavoo.to/play/788826952/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DOCUBOX", DOCUBOX
-https://www.vavoo.to/play/467190435/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV1000", TV1000
-https://www.vavoo.to/play/2742200248/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="O KANAL", O KANAL
-https://www.vavoo.to/play/3896095046/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HAYAT PLUS", HAYAT PLUS
-https://www.vavoo.to/play/165468085/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="MAXCRO SELECT 3", MAXCRO SELECT 3
-https://www.vavoo.to/play/784279434/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="KLASIK TV", KLASIK TV
-https://www.vavoo.to/play/4019883638/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV SLON", TV SLON
-https://www.vavoo.to/play/1921712595/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DOBRA", DOBRA
-https://www.vavoo.to/play/5192107/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTL PLUS", RTL PLUS
-https://www.vavoo.to/play/4134849174/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NICKELODEON HR", NICKELODEON HR
-https://www.vavoo.to/play/543917900/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 8", SPORT KLUB 8
+https://www.vavoo.to/play/3043680288/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="SEHARA TV", SEHARA TV
 https://www.vavoo.to/play/866066055/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT EXPLORE", VIASAT EXPLORE
-https://www.vavoo.to/play/4251906469/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TOXIC", TOXIC
-https://www.vavoo.to/play/2096109922/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK REALITY", PINK REALITY
-https://www.vavoo.to/play/4167644502/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DOBRA SVADBA", DOBRA SVADBA
-https://www.vavoo.to/play/3126312793/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK MUSIC 2", PINK MUSIC 2
-https://www.vavoo.to/play/2144116200/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTV CAZIN", RTV CAZIN
-https://www.vavoo.to/play/2808803907/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="IDJ TV", IDJ TV
-https://www.vavoo.to/play/789293011/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="MINI TV", MINI TV
-https://www.vavoo.to/play/2786546292/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTV BUGOJNO", RTV BUGOJNO
-https://www.vavoo.to/play/4020822681/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTV SANA", RTV SANA
-https://www.vavoo.to/play/1519487790/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK SHOW", PINK SHOW
-https://www.vavoo.to/play/2049914417/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK HORROR", PINK HORROR
-https://www.vavoo.to/play/1475437684/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK HITS 2", PINK HITS 2
-https://www.vavoo.to/play/1635528611/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NEON TV", NEON TV
-https://www.vavoo.to/play/947374497/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT KINO PREMIERE", VIASAT KINO PREMIERE
-https://www.vavoo.to/play/282503419/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTV TK TUZLA", RTV TK TUZLA
-https://www.vavoo.to/play/287149973/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT HISTORY", VIASAT HISTORY
-https://www.vavoo.to/play/3444914860/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FOX LIFE", FOX LIFE
-https://www.vavoo.to/play/1228302300/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="ADRIATIC SPORT 3", ADRIATIC SPORT 3
-https://www.vavoo.to/play/2743527845/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FILMBOX", FILMBOX
-https://www.vavoo.to/play/1045294698/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTCG 2", RTCG 2
-https://www.vavoo.to/play/4057622695/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="MAXCRO SELECT 9", MAXCRO SELECT 9
-https://www.vavoo.to/play/1678720811/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="MAXCRO SELECT 8", MAXCRO SELECT 8
-https://www.vavoo.to/play/1500452507/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CARTOON NETWORK", CARTOON NETWORK
-https://www.vavoo.to/play/4201794202/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV ISTOK", TV ISTOK
-https://www.vavoo.to/play/1381838146/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DISCOVERY SCIENCE", DISCOVERY SCIENCE
-https://www.vavoo.to/play/1555492746/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK SUPER KIDS", PINK SUPER KIDS
-https://www.vavoo.to/play/469885336/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FOX MOVIES", FOX MOVIES
-https://www.vavoo.to/play/4257106942/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK ZABAVA", PINK ZABAVA
-https://www.vavoo.to/play/2507990858/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="BABY TV", BABY TV
-https://www.vavoo.to/play/3166119033/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="KANAL 6", KANAL 6
-https://www.vavoo.to/play/3406290301/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="STUDIO B", STUDIO B
-https://www.vavoo.to/play/3830380986/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TK TUZLA BH", TK TUZLA BH
-https://www.vavoo.to/play/2043372515/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK KIDS", PINK KIDS
-https://www.vavoo.to/play/2796447463/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="MOJA TV PREMIJER LIGA", MOJA TV PREMIJER LIGA
-https://www.vavoo.to/play/1081537963/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK HITS", PINK HITS
-https://www.vavoo.to/play/1628980320/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TLC", TLC
-https://www.vavoo.to/play/3473390408/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK FOLK 2", PINK FOLK 2
-https://www.vavoo.to/play/4156595885/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK FOLK", PINK FOLK
-https://www.vavoo.to/play/2824290269/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="O KANAL MUSIC", O KANAL MUSIC
-https://www.vavoo.to/play/786558223/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HAYAT MUSIC BOX", HAYAT MUSIC BOX
-https://www.vavoo.to/play/2001231385/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV USK", TV USK
-https://www.vavoo.to/play/532341749/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="MTV HITS", MTV HITS
-https://www.vavoo.to/play/2308335794/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="SCIFI", SCIFI
+https://www.vavoo.to/play/1488837929/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="AXN SPIN", AXN SPIN
 https://www.vavoo.to/play/1099487210/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TOM AND JERRY", TOM AND JERRY
-https://www.vavoo.to/play/443724116/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="HAYAT PLUS", HAYAT PLUS
+https://www.vavoo.to/play/165468085/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="EUROSPORT 2", EUROSPORT 2
+https://www.vavoo.to/play/3872518463/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV 2", CINESTAR TV 2
+https://www.vavoo.to/play/3636345732/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="EUROSPORT 2", EUROSPORT 2
+https://www.vavoo.to/play/448416118/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HISTORIJA TV", HISTORIJA TV
+https://www.vavoo.to/play/694607918/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 4 SRB", ARENA SPORT 4 SRB
+https://www.vavoo.to/play/3303212238/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="NAT GEO WILD", NAT GEO WILD
-https://www.vavoo.to/play/2112036279/index.m3u8
+https://www.vavoo.to/play/3191034074/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK LOL", PINK LOL
-https://www.vavoo.to/play/1318827435/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="NICKELODEON", NICKELODEON
+https://www.vavoo.to/play/3688484569/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DOCUBOX", DOCUBOX
-https://www.vavoo.to/play/3222785648/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="CINEMANIA", CINEMANIA
+https://www.vavoo.to/play/2763008054/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TNT KIDS", TNT KIDS
-https://www.vavoo.to/play/3721590485/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="FOX LIFE", FOX LIFE
+https://www.vavoo.to/play/3243625503/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV 5 ISLAM", TV 5 ISLAM
-https://www.vavoo.to/play/2975285148/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="IZVORNA TV", IZVORNA TV
+https://www.vavoo.to/play/2367813923/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DIVA", DIVA
+https://www.vavoo.to/play/926783964/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTL PASSION", RTL PASSION
+https://www.vavoo.to/play/370959430/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINEMAX 2 HD", CINEMAX 2 HD
+https://www.vavoo.to/play/329503571/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTL PLUS", RTL PLUS
+https://www.vavoo.to/play/4134849174/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 5 SRB", ARENA SPORT 5 SRB
+https://www.vavoo.to/play/3549958285/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FOX", FOX
+https://www.vavoo.to/play/3554318857/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PRVA MAX", PRVA MAX
+https://www.vavoo.to/play/1795614240/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK FOLK 1", PINK FOLK 1
+https://www.vavoo.to/play/4118748881/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HBO 3 HD", HBO 3 HD
+https://www.vavoo.to/play/1253444189/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTL ADRIA", RTL ADRIA
+https://www.vavoo.to/play/1016762712/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTRS PLUS", RTRS PLUS
+https://www.vavoo.to/play/928517033/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT EXPLORE", VIASAT EXPLORE
+https://www.vavoo.to/play/4251906469/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK SERIJE", PINK SERIJE
+https://www.vavoo.to/play/3210378316/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 5 HD", ARENA SPORT 5 HD
+https://www.vavoo.to/play/2628026938/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV 5", TV 5
+https://www.vavoo.to/play/188345347/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT NATURE", VIASAT NATURE
+https://www.vavoo.to/play/4274183762/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK PANTER", PINK PANTER
+https://www.vavoo.to/play/3050666820/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTCG SAT", RTCG SAT
+https://www.vavoo.to/play/788826952/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV 1000", TV 1000
+https://www.vavoo.to/play/1998323184/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HAHA", HAHA
+https://www.vavoo.to/play/1788977439/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ATV BANJA LUKA", ATV BANJA LUKA
+https://www.vavoo.to/play/4233589405/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="MINIMAX", MINIMAX
+https://www.vavoo.to/play/2690470424/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="BOSNA TV 1", BOSNA TV 1
+https://www.vavoo.to/play/1785078238/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK KIDS", PINK KIDS
+https://www.vavoo.to/play/2796447463/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="KLAPE I TAMBURE", KLAPE I TAMBURE
 https://www.vavoo.to/play/1571019946/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK EXTRA", PINK EXTRA
-https://www.vavoo.to/play/4122781242/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 4 HD", ARENA SPORT 4 HD
+https://www.vavoo.to/play/1343128228/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HISTORY 2", HISTORY 2
+https://www.vavoo.to/play/21335052/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK KIDS", PINK KIDS
+https://www.vavoo.to/play/3963699480/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK SHOW", PINK SHOW
+https://www.vavoo.to/play/817893838/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PAROVI 2 LIVE", PAROVI 2 LIVE
+https://www.vavoo.to/play/1537379377/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="AXN", AXN
+https://www.vavoo.to/play/777626841/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HAYAT FOLK", HAYAT FOLK
+https://www.vavoo.to/play/4138302100/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="EUROSPORT 2", EUROSPORT 2
+https://www.vavoo.to/play/1410219029/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="NICKTOONS", NICKTOONS
+https://www.vavoo.to/play/2189044746/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK FAMILY", PINK FAMILY
+https://www.vavoo.to/play/2969315161/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT NATURE", VIASAT NATURE
+https://www.vavoo.to/play/4180679982/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT HISTORY", VIASAT HISTORY
+https://www.vavoo.to/play/3444914860/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 4 BIH", ARENA SPORT 4 BIH
+https://www.vavoo.to/play/652966221/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINEMAX 2", CINEMAX 2
+https://www.vavoo.to/play/825705807/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTL KOCKICA", RTL KOCKICA
+https://www.vavoo.to/play/3251758357/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK THRILLER", PINK THRILLER
+https://www.vavoo.to/play/1572807593/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FILMBOX EXTRA", FILMBOX EXTRA
+https://www.vavoo.to/play/2174124399/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT NATURE", VIASAT NATURE
+https://www.vavoo.to/play/3587917964/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK FILM", PINK FILM
+https://www.vavoo.to/play/1153957703/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HAYAT MUSIC", HAYAT MUSIC
+https://www.vavoo.to/play/206145844/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TOM AND JERRY", TOM AND JERRY
+https://www.vavoo.to/play/443724116/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK HORROR", PINK HORROR
+https://www.vavoo.to/play/1475437684/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT HISTORY", VIASAT HISTORY
+https://www.vavoo.to/play/3033302943/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DISCOVERY TURBO XTRA", DISCOVERY TURBO XTRA
+https://www.vavoo.to/play/1789028490/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="MAX SPORT 1", MAX SPORT 1
+https://www.vavoo.to/play/1904173376/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="BABY TV", BABY TV
+https://www.vavoo.to/play/3166119033/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TOM AND JERRY", TOM AND JERRY
+https://www.vavoo.to/play/829106058/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="NICKJR HR", NICKJR HR
+https://www.vavoo.to/play/3723378765/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV NOVI PAZAR", TV NOVI PAZAR
+https://www.vavoo.to/play/2682748849/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="NAT GEO", NAT GEO
+https://www.vavoo.to/play/822301016/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="KLASIK TV", KLASIK TV
+https://www.vavoo.to/play/4019883638/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV USK", TV USK
+https://www.vavoo.to/play/532341749/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DOKU TV", DOKU TV
+https://www.vavoo.to/play/1778938190/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PRVA TV CG", PRVA TV CG
+https://www.vavoo.to/play/3016747789/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK HAHA", PINK HAHA
+https://www.vavoo.to/play/1982606330/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB FIGHT", SPORT KLUB FIGHT
+https://www.vavoo.to/play/3944612551/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="O KANAL MUSIC", O KANAL MUSIC
+https://www.vavoo.to/play/786558223/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="MASA I MEDO", MASA I MEDO
+https://www.vavoo.to/play/428491796/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT KINO PREMIERE", VIASAT KINO PREMIERE
+https://www.vavoo.to/play/282503419/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DOBRA MUZICKA", DOBRA MUZICKA
+https://www.vavoo.to/play/2641529497/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="AXN SPIN", AXN SPIN
+https://www.vavoo.to/play/1179697406/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CARTOON NETWORK", CARTOON NETWORK
+https://www.vavoo.to/play/4201794202/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TLC", TLC
+https://www.vavoo.to/play/2070451084/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DISCOVERY WORLD", DISCOVERY WORLD
+https://www.vavoo.to/play/3759973215/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK MOVIES", PINK MOVIES
+https://www.vavoo.to/play/2309986692/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="X", X
 https://www.vavoo.to/play/1295762615/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV 2", CINESTAR TV 2
-https://www.vavoo.to/play/4087852378/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="MTV IGMAN", MTV IGMAN
+https://www.vavoo.to/play/695607960/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DISCOVERY SCIENCE", DISCOVERY SCIENCE
-https://www.vavoo.to/play/2253936606/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="CITYPLAY", CITYPLAY
+https://www.vavoo.to/play/3120372067/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB GOLF", SPORT KLUB GOLF
-https://www.vavoo.to/play/3604260757/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="KCN 2", KCN 2
+https://www.vavoo.to/play/3668786775/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SUPER TV", SUPER TV
-https://www.vavoo.to/play/2327216525/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="ZIVINICE", ZIVINICE
+https://www.vavoo.to/play/1416666208/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTV VISOKO", RTV VISOKO
-https://www.vavoo.to/play/754651832/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FOOD NETWORK", FOOD NETWORK
-https://www.vavoo.to/play/3662258554/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="BBC EARTH", BBC EARTH
+https://www.vavoo.to/play/1561391128/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="LOONEY TUNES", LOONEY TUNES
 https://www.vavoo.to/play/2107037648/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB GOLF", SPORT KLUB GOLF
+https://www.vavoo.to/play/3604260757/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="LOV I RIBOLOV", LOV I RIBOLOV
+https://www.vavoo.to/play/2324453958/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="CINEMA TV BH", CINEMA TV BH
+https://www.vavoo.to/play/3863662541/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FOOD NETWORK", FOOD NETWORK
+https://www.vavoo.to/play/3662258554/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK MUSIC 2", PINK MUSIC 2
+https://www.vavoo.to/play/2144116200/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTL LIVING", RTL LIVING
+https://www.vavoo.to/play/2983585576/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK FOLK", PINK FOLK
+https://www.vavoo.to/play/2824290269/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK FOLK 1", PINK FOLK 1
+https://www.vavoo.to/play/2959139965/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="KCN 1", KCN 1
+https://www.vavoo.to/play/2634892423/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK MUSIC 1", PINK MUSIC 1
+https://www.vavoo.to/play/946661176/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="IZVORNA TV", IZVORNA TV
+https://www.vavoo.to/play/2180774477/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV SEHARA", TV SEHARA
+https://www.vavoo.to/play/9735466/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="E", E
+https://www.vavoo.to/play/1514394123/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="O KANAL", O KANAL
+https://www.vavoo.to/play/3896095046/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FOX CRIME", FOX CRIME
+https://www.vavoo.to/play/4236308356/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK EXTRA", PINK EXTRA
+https://www.vavoo.to/play/2317581732/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK LOL", PINK LOL
+https://www.vavoo.to/play/1318827435/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK EXTRA", PINK EXTRA
+https://www.vavoo.to/play/4122781242/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV K3", TV K3
+https://www.vavoo.to/play/1956244714/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HIT TELEVIZIJA", HIT TELEVIZIJA
+https://www.vavoo.to/play/1129689780/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK CLASSIC", PINK CLASSIC
+https://www.vavoo.to/play/2552855542/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK PREMIUM", PINK PREMIUM
+https://www.vavoo.to/play/2853021043/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTV SANA", RTV SANA
+https://www.vavoo.to/play/1519487790/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="MY TV", MY TV
+https://www.vavoo.to/play/243810847/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK PLUS", PINK PLUS
+https://www.vavoo.to/play/500020483/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTV TK TUZLA", RTV TK TUZLA
+https://www.vavoo.to/play/287149973/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV 5 ISLAM", TV 5 ISLAM
+https://www.vavoo.to/play/2975285148/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="PRVA KICK", PRVA KICK
 https://www.vavoo.to/play/3746124118/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="MTV", MTV
-https://www.vavoo.to/play/2059729489/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="MAXCRO SELECT 4", MAXCRO SELECT 4
+https://www.vavoo.to/play/2627730330/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK SUPER KIDS", PINK SUPER KIDS
+https://www.vavoo.to/play/3892334137/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTV BUGOJNO", RTV BUGOJNO
+https://www.vavoo.to/play/4020822681/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="AXN", AXN
+https://www.vavoo.to/play/3876516998/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="MAXCRO SELECT 3", MAXCRO SELECT 3
+https://www.vavoo.to/play/784279434/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV SEVDAH", TV SEVDAH
+https://www.vavoo.to/play/3016725456/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="MAXCRO SELECT 6", MAXCRO SELECT 6
+https://www.vavoo.to/play/3865028858/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TELEVIZIJA 5", TELEVIZIJA 5
+https://www.vavoo.to/play/2748963032/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DISCOVERY SCIENCE", DISCOVERY SCIENCE
+https://www.vavoo.to/play/1555492746/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DOBRA ISLAMSKA", DOBRA ISLAMSKA
+https://www.vavoo.to/play/956406027/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="MTV 00S", MTV 00S
+https://www.vavoo.to/play/1265586676/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="MINI TV", MINI TV
+https://www.vavoo.to/play/2786546292/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PIKABOO", PIKABOO
+https://www.vavoo.to/play/2566968310/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HAYATOVCI", HAYATOVCI
+https://www.vavoo.to/play/1368386480/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT TV 1", SPORT TV 1
+https://www.vavoo.to/play/1645162648/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV1000", TV1000
+https://www.vavoo.to/play/2742200248/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTV ZENICA", RTV ZENICA
+https://www.vavoo.to/play/134098158/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PEPA PRA", PEPA PRA
+https://www.vavoo.to/play/2322202062/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="VALENTINO MUSIC", VALENTINO MUSIC
+https://www.vavoo.to/play/2834889577/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK FASHION", PINK FASHION
+https://www.vavoo.to/play/1375797154/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORTSKA TV", SPORTSKA TV
+https://www.vavoo.to/play/1583059029/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DOBRA SVADBA", DOBRA SVADBA
+https://www.vavoo.to/play/3126312793/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="STAR LIFE", STAR LIFE
+https://www.vavoo.to/play/567673356/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="MAXCRO SELECT 8", MAXCRO SELECT 8
+https://www.vavoo.to/play/1500452507/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV SLON", TV SLON
+https://www.vavoo.to/play/1921712595/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="STUDIO B", STUDIO B
+https://www.vavoo.to/play/3830380986/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK HITS", PINK HITS
+https://www.vavoo.to/play/1628980320/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FILMBOX", FILMBOX
+https://www.vavoo.to/play/3850560185/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FIGHT BOX", FIGHT BOX
+https://www.vavoo.to/play/1426280857/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DOCUBOX", DOCUBOX
+https://www.vavoo.to/play/467190435/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTL KOCKICA", RTL KOCKICA
+https://www.vavoo.to/play/1930307647/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DOCUBOX", DOCUBOX
+https://www.vavoo.to/play/3222785648/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PODRINJE TV", PODRINJE TV
+https://www.vavoo.to/play/236296466/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK HORROR", PINK HORROR
+https://www.vavoo.to/play/317628120/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="MAXCRO SELECT 9", MAXCRO SELECT 9
+https://www.vavoo.to/play/1678720811/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SEVDAH TV", SEVDAH TV
+https://www.vavoo.to/play/2738118545/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="KANAL 6", KANAL 6
+https://www.vavoo.to/play/3406290301/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DOBRA", DOBRA
+https://www.vavoo.to/play/5192107/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="KANAL 5", KANAL 5
+https://www.vavoo.to/play/2359797677/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PAROVI 1 LIVE", PAROVI 1 LIVE
+https://www.vavoo.to/play/2962569010/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="HIT BRCKO", HIT BRCKO
 https://www.vavoo.to/play/2253144925/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="POSAVINA TV", POSAVINA TV
-https://www.vavoo.to/play/3130225182/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="NICKELODEON", NICKELODEON
+https://www.vavoo.to/play/1762001907/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DA VINCI", DA VINCI
-https://www.vavoo.to/play/2301026606/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK ZABAVA", PINK ZABAVA
+https://www.vavoo.to/play/3496156646/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SOS KANAL", SOS KANAL
+https://www.vavoo.to/play/3405730466/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SEVDAH TV", SEVDAH TV
+https://www.vavoo.to/play/2704279693/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK KONCERT", PINK KONCERT
+https://www.vavoo.to/play/3573600116/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK CRIME", PINK CRIME
+https://www.vavoo.to/play/1334542737/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK SHOW", PINK SHOW
+https://www.vavoo.to/play/2049914417/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DOBRA PLUS", DOBRA PLUS
+https://www.vavoo.to/play/1577904338/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HAYAT MUSIC BOX", HAYAT MUSIC BOX
+https://www.vavoo.to/play/2001231385/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TK TUZLA BH", TK TUZLA BH
+https://www.vavoo.to/play/2043372515/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV GLAS DRINE", TV GLAS DRINE
+https://www.vavoo.to/play/3842226300/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DOBRA EXCLUSIVE", DOBRA EXCLUSIVE
+https://www.vavoo.to/play/1537564198/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="OTV VALENTINO", OTV VALENTINO
+https://www.vavoo.to/play/3149793644/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK REALITY", PINK REALITY
+https://www.vavoo.to/play/1973100123/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB GOLF", SPORT KLUB GOLF
+https://www.vavoo.to/play/1906574408/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="MTV HITS", MTV HITS
+https://www.vavoo.to/play/2308335794/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="DOBRA DJECIJA", DOBRA DJECIJA
@@ -1589,224 +1633,288 @@ https://www.vavoo.to/play/3171906554/index.m3u8
 https://www.vavoo.to/play/2231709942/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DOBRA EXCLUSIVE", DOBRA EXCLUSIVE
-https://www.vavoo.to/play/1537564198/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="FOX LIFE", FOX LIFE
+https://www.vavoo.to/play/1228302300/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTV 1", RTV 1
+https://www.vavoo.to/play/3206634038/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TRAVEL CHANNEL", TRAVEL CHANNEL
+https://www.vavoo.to/play/494867044/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SANDZAK TV", SANDZAK TV
+https://www.vavoo.to/play/304843368/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HEMA TV", HEMA TV
+https://www.vavoo.to/play/655636936/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK SOAP", PINK SOAP
+https://www.vavoo.to/play/2102235680/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="PINK ZABAVA", PINK ZABAVA
-https://www.vavoo.to/play/3496156646/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HIT TELEVIZIJA", HIT TELEVIZIJA
-https://www.vavoo.to/play/1129689780/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="VAVOOM", VAVOOM
-https://www.vavoo.to/play/1411303991/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK HAHA", PINK HAHA
-https://www.vavoo.to/play/1019415557/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PIKABOO", PIKABOO
-https://www.vavoo.to/play/2566968310/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TLC", TLC
-https://www.vavoo.to/play/2990523347/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NTVIC KAKANJ", NTVIC KAKANJ
-https://www.vavoo.to/play/732636404/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTV HERCEG BOSNE", RTV HERCEG BOSNE
-https://www.vavoo.to/play/546689730/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="MTV 00S", MTV 00S
-https://www.vavoo.to/play/1265586676/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV BANOVINA", TV BANOVINA
-https://www.vavoo.to/play/3793523698/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK FAMILY", PINK FAMILY
-https://www.vavoo.to/play/4125351413/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PIKABOO", PIKABOO
-https://www.vavoo.to/play/4162582937/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DA VINCI LEARNING", DA VINCI LEARNING
-https://www.vavoo.to/play/297494844/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV 1", TV 1
-https://www.vavoo.to/play/4273556163/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK PEDIA", PINK PEDIA
-https://www.vavoo.to/play/4204456808/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="VALENTINO MUSIC", VALENTINO MUSIC
-https://www.vavoo.to/play/2834889577/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB GOLF", SPORT KLUB GOLF
-https://www.vavoo.to/play/1906574408/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TOP TV", TOP TV
-https://www.vavoo.to/play/2292980296/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV SEHARA", TV SEHARA
-https://www.vavoo.to/play/9735466/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HAYATOVCI", HAYATOVCI
-https://www.vavoo.to/play/426023763/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="LOV I RIBOLOV", LOV I RIBOLOV
-https://www.vavoo.to/play/2710949016/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="DOBRA PLUS", DOBRA PLUS
-https://www.vavoo.to/play/1577904338/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HAYAT MUSIC", HAYAT MUSIC
-https://www.vavoo.to/play/206145844/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PEPA PRA", PEPA PRA
-https://www.vavoo.to/play/2322202062/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SEVDAH TV", SEVDAH TV
-https://www.vavoo.to/play/2738118545/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HAYATOVCI", HAYATOVCI
-https://www.vavoo.to/play/1368386480/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="OTV VALENTINO", OTV VALENTINO
-https://www.vavoo.to/play/3149793644/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TELEVIZIJA 5", TELEVIZIJA 5
-https://www.vavoo.to/play/2748963032/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK KONCERT", PINK KONCERT
-https://www.vavoo.to/play/3573600116/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="FOOD NETWORK", FOOD NETWORK
-https://www.vavoo.to/play/429517847/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="AXN SPIN", AXN SPIN
-https://www.vavoo.to/play/1179697406/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TK TUZLA", TK TUZLA
-https://www.vavoo.to/play/924585577/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV GLAS DRINE", TV GLAS DRINE
-https://www.vavoo.to/play/3842226300/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="KCN 1", KCN 1
-https://www.vavoo.to/play/2634892423/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="PINK KIDS", PINK KIDS
-https://www.vavoo.to/play/3963699480/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTL PASSION", RTL PASSION
-https://www.vavoo.to/play/370959430/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="MINI TV", MINI TV
-https://www.vavoo.to/play/2111332007/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SMART TELEVIZIJA", SMART TELEVIZIJA
-https://www.vavoo.to/play/3125687685/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SOS KANAL", SOS KANAL
-https://www.vavoo.to/play/3405730466/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="NICKELODEON HR", NICKELODEON HR
-https://www.vavoo.to/play/1246262761/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="IDJ KIDS", IDJ KIDS
-https://www.vavoo.to/play/2494427928/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SOBRANISKI KANAL", SOBRANISKI KANAL
-https://www.vavoo.to/play/4026229012/index.m3u8
+https://www.vavoo.to/play/2507990858/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="CITY TV", CITY TV
 https://www.vavoo.to/play/2973008054/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV NASHA", TV NASHA
-https://www.vavoo.to/play/2640869214/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="NEON TV", NEON TV
+https://www.vavoo.to/play/947374497/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="RTL LIVING", RTL LIVING
-https://www.vavoo.to/play/3171935302/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="SMART TELEVIZIJA", SMART TELEVIZIJA
+https://www.vavoo.to/play/3125687685/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV SEVDAH", TV SEVDAH
-https://www.vavoo.to/play/3016725456/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="CINESTAR TV 2", CINESTAR TV 2
+https://www.vavoo.to/play/4087852378/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TV GLAS DRINE", TV GLAS DRINE
-https://www.vavoo.to/play/3457822370/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="NTVIC KAKANJ", NTVIC KAKANJ
+https://www.vavoo.to/play/732636404/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="MOJA TV PREMIJER LIGA", MOJA TV PREMIJER LIGA
+https://www.vavoo.to/play/1081537963/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SOS", SOS
+https://www.vavoo.to/play/2448169073/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK HAHA", PINK HAHA
+https://www.vavoo.to/play/1019415557/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV ISTOK", TV ISTOK
+https://www.vavoo.to/play/1381838146/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK HITS 2", PINK HITS 2
+https://www.vavoo.to/play/1635528611/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="KCN 3", KCN 3
 https://www.vavoo.to/play/3888977895/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="HAYATOVCI", HAYATOVCI
-https://www.vavoo.to/play/459328591/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="FIGHT NETWORK", FIGHT NETWORK
+https://www.vavoo.to/play/2189623531/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTV CAZIN", RTV CAZIN
+https://www.vavoo.to/play/2808803907/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="TVSA SARAJEVO", TVSA SARAJEVO
 https://www.vavoo.to/play/3605622874/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TOP TV", TOP TV
+https://www.vavoo.to/play/2292980296/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PIKABOO", PIKABOO
+https://www.vavoo.to/play/4162582937/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK SUPER KIDS", PINK SUPER KIDS
+https://www.vavoo.to/play/469885336/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV 1", TV 1
+https://www.vavoo.to/play/4273556163/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="POSAVINA TV", POSAVINA TV
+https://www.vavoo.to/play/3130225182/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTV HERCEG BOSNE", RTV HERCEG BOSNE
+https://www.vavoo.to/play/546689730/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TNT KIDS", TNT KIDS
+https://www.vavoo.to/play/3721590485/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="CITY TV", CITY TV
 https://www.vavoo.to/play/1794870373/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV BANOVINA", TV BANOVINA
+https://www.vavoo.to/play/3793523698/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="IDJ KIDS", IDJ KIDS
+https://www.vavoo.to/play/2494427928/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="NICKELODEON HR", NICKELODEON HR
+https://www.vavoo.to/play/1246262761/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV NASHA", TV NASHA
+https://www.vavoo.to/play/2640869214/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTV VISOKO", RTV VISOKO
+https://www.vavoo.to/play/754651832/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK PEDIA", PINK PEDIA
+https://www.vavoo.to/play/4204456808/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="SOBRANISKI KANAL", SOBRANISKI KANAL
+https://www.vavoo.to/play/4026229012/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="MINI TV", MINI TV
+https://www.vavoo.to/play/2111332007/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK KUVAR", PINK KUVAR
+https://www.vavoo.to/play/2481382455/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="VIASAT EXPLORE", VIASAT EXPLORE
+https://www.vavoo.to/play/2538406656/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK PLUS TV", PINK PLUS TV
+https://www.vavoo.to/play/2497251648/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HAYATOVCI", HAYATOVCI
+https://www.vavoo.to/play/426023763/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TK TUZLA", TK TUZLA
+https://www.vavoo.to/play/924585577/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HISTORY HD", HISTORY HD
+https://www.vavoo.to/play/639412623/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK SOAP", PINK SOAP
+https://www.vavoo.to/play/933410271/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FIGHTBOX", FIGHTBOX
+https://www.vavoo.to/play/2237874125/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TV GLAS DRINE", TV GLAS DRINE
+https://www.vavoo.to/play/3457822370/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FOOD NETWORK", FOOD NETWORK
+https://www.vavoo.to/play/429517847/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTL LIVING", RTL LIVING
+https://www.vavoo.to/play/3171935302/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HAYATOVCI", HAYATOVCI
+https://www.vavoo.to/play/459328591/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DISCOVERY SCIENCE", DISCOVERY SCIENCE
+https://www.vavoo.to/play/2253936606/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="TLC", TLC
+https://www.vavoo.to/play/3473390408/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT 10 HR", ARENA SPORT 10 HR
+https://www.vavoo.to/play/3991014499/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="ARENA SPORT PREMIUM 3", ARENA SPORT PREMIUM 3
+https://www.vavoo.to/play/6909032/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="BALKAN TRIP", BALKAN TRIP
+https://www.vavoo.to/play/3630683467/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="CINE", CINE
 https://www.vavoo.to/play/3970282984/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="DOMA", DOMA
+https://www.vavoo.to/play/1039949502/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="FOX CRIME", FOX CRIME
 https://www.vavoo.to/play/3060779131/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FOX LIFE", FOX LIFE
+https://www.vavoo.to/play/1324249288/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="FOX MOVIES", FOX MOVIES
+https://www.vavoo.to/play/4257106942/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HAPPY TV", HAPPY TV
+https://www.vavoo.to/play/1442214730/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="HGTV", HGTV
 https://www.vavoo.to/play/2946833751/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="HRT 1", HRT 1
+https://www.vavoo.to/play/3611265655/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="KINO TV", KINO TV
+https://www.vavoo.to/play/1392680291/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="MTV", MTV
+https://www.vavoo.to/play/2059729489/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="N1 SRB", N1 SRB
+https://www.vavoo.to/play/2826018474/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="NAT GEO WILD", NAT GEO WILD
+https://www.vavoo.to/play/2112036279/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK FAMILY", PINK FAMILY
+https://www.vavoo.to/play/4125351413/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK REALITY", PINK REALITY
+https://www.vavoo.to/play/4167644502/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK SCI", PINK SCI
+https://www.vavoo.to/play/559958860/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK STYLE", PINK STYLE
+https://www.vavoo.to/play/3493997669/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="PINK WORLD CINEMA", PINK WORLD CINEMA
+https://www.vavoo.to/play/3844486588/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="PLANETA TV", PLANETA TV
@@ -1817,28 +1925,20 @@ https://www.vavoo.to/play/409979307/index.m3u8
 https://www.vavoo.to/play/139247412/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Balkans" tvg-name="RTL ZWEI", RTL ZWEI
+https://www.vavoo.to/play/992994150/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="RTS TREZOR", RTS TREZOR
 https://www.vavoo.to/play/506589367/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SANDZAK TV", SANDZAK TV
-https://www.vavoo.to/play/304843368/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="SPORT KLUB 1", SPORT KLUB 1
+https://www.vavoo.to/play/2074791740/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="SEVDAH TV", SEVDAH TV
-https://www.vavoo.to/play/2704279693/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="CBS REALITY", CBS REALITY
-https://www.vavoo.to/play/2577793279/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="JIMJAM", JIMJAM
-https://www.vavoo.to/play/1317195891/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Balkans" tvg-name="TK", TK
-https://www.vavoo.to/play/1095462105/index.m3u8
+#EXTINF:-1 group-title="Balkans" tvg-name="TV VIJESTI CG", TV VIJESTI CG
+https://www.vavoo.to/play/1464267314/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Balkans" tvg-name="CC EXTRA", CC EXTRA
